@@ -13,8 +13,10 @@ public:
     //void throwTestException();
     
     int count;
+    int loopCount;
     float bpm;
     Poco::AtomicCounter shouldThrowTestException;
     ofSoundPlayer cp;
     ofSoundPlayer bd;
+    ofSoundPlayer sd;
 };

@@ -3,7 +3,7 @@
 ParseSyncopation::ParseSyncopation(string filename){
     syncopationMax = -10000;
     syncopationMin = 10000;
-    drawMargin = 40;
+    drawMargin = 100;
     radius = 5;
 
     bool parsingSuccessful = result.open(filename);
@@ -68,6 +68,7 @@ ParseSyncopation::ParseSyncopation(string filename){
 }
 
 void ParseSyncopation::draw(){
+    ofSetColor(255, 100);
     for (int i = 0; i < 256; i++) {
         ofDrawCircle(bar[i].screenLocation, radius);
     }

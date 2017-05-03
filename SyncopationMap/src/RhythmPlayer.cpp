@@ -1,10 +1,11 @@
 #include "RhythmPlayer.hpp"
 #include "ofApp.h"
 
-RhythmPlayer::RhythmPlayer(): count(0), shouldThrowTestException(false){
-    bpm = 120;
+RhythmPlayer::RhythmPlayer():
+count(0), loopCount(0), bpm(120), shouldThrowTestException(false) {
     cp.load("HANDCLP0.wav");
     bd.load("BT0A0A7.wav");
+    sd.load("ST0T0S7.wav");
 }
 
 void RhythmPlayer::start(){
@@ -24,12 +25,19 @@ void RhythmPlayer::threadedFunction(){
             if (count == 0) {
                 bd.play();
             }
+            if (count == 4) {
+                sd.play();
+            }
 
-            string beat = app->rhythmPicker->pickedBit[0];
+            int pickBitNum = (loopCount/4) % app->rhythmPicker->pickedBit.size();
+            string beat = app->rhythmPicker->pickedBit[pickBitNum];
             if (beat.at(count) == '1') {
                 cp.play();
             }
             count = (count+1) % 8;
+            if (count == 0) {
+                loopCount++;
+            }
             sleep((120.0/bpm)*1000/8);
         }
     }

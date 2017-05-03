@@ -29,9 +29,11 @@ void RhythmPicker::update(){
 void RhythmPicker::draw(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
     
+    /*
     ofSetColor(255, 127);
     ofDrawLine(mouseLoc.x, 0, mouseLoc.x, ofGetHeight());
     ofDrawLine(0, mouseLoc.y, ofGetWidth(), mouseLoc.y);
+    */
     
     ofVec2f pickedLoc;
     pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;

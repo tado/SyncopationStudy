@@ -5,12 +5,14 @@ RhythmPicker::RhythmPicker(){
     rhythmDist = 10000;
     pickedRhythm.clear();
     pickedBit.clear();
+    selected = false;
+    selectLoc.set(ofGetWidth()/2, ofGetHeight()/2);
 }
 
 void RhythmPicker::update(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
     for (int i = 0; i < app->parseSynco->bar.size(); i++) {
-        float dist = mouseLoc.distance(app->parseSynco->bar[i].screenLocation);
+        float dist = selectLoc.distance(app->parseSynco->bar[i].screenLocation);
         if (dist < rhythmDist) {
             rhythmDist = dist;
         }
@@ -18,7 +20,7 @@ void RhythmPicker::update(){
     pickedRhythm.clear();
     pickedBit.clear();
     for (int i = 0; i < app->parseSynco->bar.size(); i++) {
-        float dist = mouseLoc.distance(app->parseSynco->bar[i].screenLocation);
+        float dist = selectLoc.distance(app->parseSynco->bar[i].screenLocation);
         if (dist == rhythmDist) {
             pickedRhythm.push_back(i);
             pickedBit.push_back(app->parseSynco->bar[i].bit);
@@ -37,8 +39,12 @@ void RhythmPicker::draw(){
     
     ofVec2f pickedLoc;
     pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;
+
     ofSetColor(255, 0, 0, 127);
-    ofDrawCircle(pickedLoc, 10);
+    ofDrawCircle(pickedLoc, 10);    
+    
+    ofSetColor(255, 127);
+    ofDrawCircle(selectLoc, 15);
     
     ofSetColor(255);
     for (int i = 0; i < pickedRhythm.size(); i++) {
@@ -48,8 +54,27 @@ void RhythmPicker::draw(){
 }
 
 void RhythmPicker::mouseMoved(int x, int y){
-    rhythmDist = 10000;
-    pickedRhythm.clear();
-    mouseLoc.x = x;
-    mouseLoc.y = y;
+
+}
+
+void RhythmPicker::mousePressed(int x, int y, int button){
+    float dist = selectLoc.distance(ofVec2f(x, y));
+    if (dist < 50) {
+        selected = true;
+    } else {
+        selected = false;
+    }
+}
+
+void RhythmPicker::mouseReleased(int x, int y, int button){
+    selected = false;
+}
+
+void RhythmPicker::mouseDragged(int x, int y, int button){
+    if (selected) {
+        rhythmDist = 10000;
+        pickedRhythm.clear();
+        selectLoc.x = x;
+        selectLoc.y = y;
+    }
 }

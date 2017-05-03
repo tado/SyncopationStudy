@@ -7,8 +7,12 @@ public:
     void update();
     void draw();
     void mouseMoved(int x, int y );
+    void mouseDragged(int x, int y, int button);
+    void mousePressed(int x, int y, int button);
+    void mouseReleased(int x, int y, int button);
     
-    ofVec2f mouseLoc;
+    bool selected;
+    ofVec2f selectLoc;
     float rhythmDist;
     vector<int> pickedRhythm;
     vector<string> pickedBit;

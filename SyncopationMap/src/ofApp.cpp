@@ -28,8 +28,8 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     parseSynco->draw();
-    rhythmPicker->draw();
     rhythmPlayer->draw();
+    rhythmPicker->draw();
 }
 
 void ofApp::exit(){
@@ -53,17 +53,17 @@ void ofApp::mouseMoved(int x, int y ){
 
 //--------------------------------------------------------------
 void ofApp::mouseDragged(int x, int y, int button){
-
+    rhythmPicker->mouseDragged(x, y, button);
 }
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
-
+    rhythmPicker->mousePressed(x, y, button);
 }
 
 //--------------------------------------------------------------
 void ofApp::mouseReleased(int x, int y, int button){
-
+    rhythmPicker->mouseReleased(x, y, button);
 }
 
 //--------------------------------------------------------------

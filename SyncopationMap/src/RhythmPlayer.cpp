@@ -22,14 +22,15 @@ void RhythmPlayer::threadedFunction(){
         if(lock()){
             unlock();
 
+            //generate base beat
             if (count == 0) {
                 bd.play();
-            }
-            if (count == 4) {
+            } else if (count == 4) {
                 sd.play();
             }
-
-            int pickBitNum = (loopCount/4) % app->rhythmPicker->pickedBit.size();
+            
+            //generate rhythum
+            int pickBitNum = (loopCount/2) % app->rhythmPicker->pickedBit.size();
             string beat = app->rhythmPicker->pickedBit[pickBitNum];
             if (beat.at(count) == '1') {
                 cp.play();
@@ -38,6 +39,8 @@ void RhythmPlayer::threadedFunction(){
             if (count == 0) {
                 loopCount++;
             }
+            
+            //sleep 1 beat (bpm/8)
             sleep((120.0/bpm)*1000/8);
         }
     }

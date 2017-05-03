@@ -6,7 +6,7 @@ RhythmPicker::RhythmPicker(){
     pickedRhythm.clear();
     pickedBit.clear();
     selected = false;
-    selectLoc.set(ofGetWidth()/2, ofGetHeight()/2);
+    selectLoc.set(40, ofGetHeight() - 40);
 }
 
 void RhythmPicker::update(){

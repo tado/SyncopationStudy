@@ -14,6 +14,9 @@ void ofApp::setup(){
     //parseSynco = new ParseSyncopation("WNBD.json");
     
     rhythmPicker = new RhythmPicker();
+    
+    rhythmPlayer = new RhythmPlayer();
+    rhythmPlayer->start();
 }
 
 //--------------------------------------------------------------
@@ -26,6 +29,7 @@ void ofApp::draw(){
     ofSetColor(255, 100);
     parseSynco->draw();
     rhythmPicker->draw();
+    rhythmPlayer->draw();
 }
 
 //--------------------------------------------------------------

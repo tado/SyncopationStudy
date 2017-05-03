@@ -3,6 +3,7 @@
 #include "ofMain.h"
 #include "ParseSyncopation.hpp"
 #include "RhythmPicker.hpp"
+#include "RhythmPlayer.hpp"
 
 class ofApp : public ofBaseApp{
 public:
@@ -23,6 +24,6 @@ public:
     void gotMessage(ofMessage msg);
     
     ParseSyncopation *parseSynco;
-    
     RhythmPicker *rhythmPicker;
+    RhythmPlayer *rhythmPlayer;
 };

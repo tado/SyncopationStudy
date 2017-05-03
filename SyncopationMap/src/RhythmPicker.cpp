@@ -4,6 +4,7 @@
 RhythmPicker::RhythmPicker(){
     rhythmDist = 10000;
     pickedRhythm.clear();
+    pickedBit.clear();
 }
 
 void RhythmPicker::update(){
@@ -15,10 +16,12 @@ void RhythmPicker::update(){
         }
     }
     pickedRhythm.clear();
+    pickedBit.clear();
     for (int i = 0; i < app->parseSynco->bar.size(); i++) {
         float dist = mouseLoc.distance(app->parseSynco->bar[i].screenLocation);
         if (dist == rhythmDist) {
             pickedRhythm.push_back(i);
+            pickedBit.push_back(app->parseSynco->bar[i].bit);
         }
     }
 }

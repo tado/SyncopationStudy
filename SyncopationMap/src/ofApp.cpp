@@ -5,6 +5,9 @@ void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(30);
     
+    gui = new GUI();
+    showGui = false;
+    
     //parseSynco = new ParseSyncopation("LHL.json");
     //parseSynco = new ParseSyncopation("SG.json");
     //parseSynco = new ParseSyncopation("KTH.json");
@@ -14,7 +17,6 @@ void ofApp::setup(){
     //parseSynco = new ParseSyncopation("WNBD.json");
     
     rhythmPicker = new RhythmPicker();
-    
     rhythmPlayer = new RhythmPlayer();
     rhythmPlayer->bpm = 120;
     rhythmPlayer->start();
@@ -23,13 +25,21 @@ void ofApp::setup(){
 //--------------------------------------------------------------
 void ofApp::update(){
     rhythmPicker->update();
+    gui->update();
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    parseSynco->draw();
-    rhythmPlayer->draw();
+    if (gui->drawSynco) {
+        parseSynco->draw();
+        rhythmPlayer->draw();
+    }
+    
     rhythmPicker->draw();
+
+    if (showGui) {
+        gui->draw();
+    }
 }
 
 void ofApp::exit(){
@@ -38,7 +48,13 @@ void ofApp::exit(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+    if (key == 'g') {
+        if (showGui) {
+            showGui = false;
+        } else {
+            showGui = true;
+        }
+    }
 }
 
 //--------------------------------------------------------------

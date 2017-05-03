@@ -31,26 +31,21 @@ void RhythmPicker::update(){
 void RhythmPicker::draw(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
     
-    /*
-    ofSetColor(255, 127);
-    ofDrawLine(mouseLoc.x, 0, mouseLoc.x, ofGetHeight());
-    ofDrawLine(0, mouseLoc.y, ofGetWidth(), mouseLoc.y);
-    */
-    
     ofVec2f pickedLoc;
     pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;
 
-    ofSetColor(255, 0, 0, 127);
-    ofDrawCircle(pickedLoc, 10);    
-    
-    ofSetColor(255, 127);
-    ofDrawCircle(selectLoc, 15);
-    
-    ofSetColor(255);
-    for (int i = 0; i < pickedRhythm.size(); i++) {
-        string bitStr = app->parseSynco->bar[pickedRhythm[i]].bit;
-        ofDrawBitmapString(bitStr, 20, 20 + i * 15);
+    if (app->gui->drawSynco) {
+        ofSetColor(255, 0, 0, 127);
+        ofDrawCircle(pickedLoc, 10);
+        ofSetColor(255);
+        for (int i = 0; i < pickedRhythm.size(); i++) {
+            string bitStr = app->parseSynco->bar[pickedRhythm[i]].bit;
+            ofDrawBitmapString(bitStr, ofGetWidth() - 100, 20 + i * 15);
+        }
     }
+    
+    ofSetColor(255, 200);
+    ofDrawCircle(selectLoc, 15);
 }
 
 void RhythmPicker::mouseMoved(int x, int y){

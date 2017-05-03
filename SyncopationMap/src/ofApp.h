@@ -4,6 +4,7 @@
 #include "ParseSyncopation.hpp"
 #include "RhythmPicker.hpp"
 #include "RhythmPlayer.hpp"
+#include "GUI.hpp"
 
 class ofApp : public ofBaseApp{
 public:
@@ -27,4 +28,6 @@ public:
     ParseSyncopation *parseSynco;
     RhythmPicker *rhythmPicker;
     RhythmPlayer *rhythmPlayer;
+    GUI *gui;
+    bool showGui;
 };

@@ -9,4 +9,5 @@ public:
     void draw();
     
     ofxPanel gui;
+    ofxToggle drawSynco;
 };

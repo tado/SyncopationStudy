@@ -47,9 +47,10 @@ void RhythmPlayer::threadedFunction(){
 }
 
 void RhythmPlayer::draw(){
-
+    /*
     if (count == 0) {
         ofSetColor(255);
         ofDrawCircle(ofGetWidth()-40, 40, 5);
     }
+    */
 }

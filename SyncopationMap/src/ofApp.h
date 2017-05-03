@@ -1,16 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ofxJSON.h"
-#include<bitset>
-
-class Bar {
-public:
-    int num;
-    string bit;
-    float syncopation;
-    int noteNum;
-};
+#include "ParseSyncopation.hpp"
 
 class ofApp : public ofBaseApp{
 public:
@@ -30,9 +21,11 @@ public:
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
     
-    ofxJSONElement resultSG;
-    vector<Bar> barSG;
-    //float SG[256];
-    //ofxJSONElement resultLHL;
-    //float LHL[256];
+    ParseSyncopation *parseSyncoSG;
+    ParseSyncopation *parseSyncoLHL;
+    ParseSyncopation *parseSyncoKTH;
+    ParseSyncopation *parseSyncoPRS;
+    ParseSyncopation *parseSyncoTMC;
+    ParseSyncopation *parseSyncoTOB;
+    ParseSyncopation *parseSyncoWNBD;
 };

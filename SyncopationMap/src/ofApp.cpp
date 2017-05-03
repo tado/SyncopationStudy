@@ -4,25 +4,14 @@
 void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(30);
-    bool parsingSuccessfulSG = resultSG.open("SG.json");
-    if (parsingSuccessfulSG){
-        for (int i = 0; i < 256; i++) {
-            Bar b;
-            b.num = i;
-            b.syncopation = resultSG["syncopation_by_bar"][i].asFloat();
-            bitset<8> value(i);
-            string bitStr = value.to_string<char,std::string::traits_type,std::string::allocator_type>();
-            b.bit = bitStr;
-            int noteNum = 0;
-            for (int i = 0; i < bitStr.length(); i++) {
-                if (bitStr.at(i) == '1') {
-                    noteNum++;
-                }
-            }
-            b.noteNum = noteNum;
-            barSG.push_back(b);
-        }
-    }
+    
+    parseSyncoSG = new ParseSyncopation("SG.json");
+    parseSyncoLHL = new ParseSyncopation("LHL.json");
+    parseSyncoKTH = new ParseSyncopation("KTH.json");
+    parseSyncoPRS = new ParseSyncopation("PRS.json");
+    parseSyncoTMC = new ParseSyncopation("TMC.json");
+    parseSyncoTOB = new ParseSyncopation("TOB.json");
+    parseSyncoWNBD = new ParseSyncopation("WNBD.json");
 }
 
 //--------------------------------------------------------------
@@ -32,12 +21,14 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofSetColor(255, 127, 31, 127);
-    for (int i = 0; i < 256; i++) {
-        float x = ofMap(barSG[i].syncopation, 0.0, 2.0, 100, ofGetWidth()-100);
-        float y = ofMap(barSG[i].noteNum, 0, 8, ofGetHeight()-100, 100);
-        ofDrawCircle(x, y, 12);
-    }
+    ofSetColor(255, 100);
+    //parseSyncoSG->draw();
+    //parseSyncoLHL->draw();
+    //parseSyncoKTH->draw();
+    parseSyncoPRS->draw();
+    //parseSyncoTMC->draw();
+    //parseSyncoTOB->draw();
+    //parseSyncoWNBD->draw();
 }
 
 //--------------------------------------------------------------

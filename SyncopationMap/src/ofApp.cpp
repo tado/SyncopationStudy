@@ -8,13 +8,13 @@ void ofApp::setup(){
     gui = new GUI();
     showGui = false;
     
-    //parseSynco = new ParseSyncopation("LHL.json");
-    //parseSynco = new ParseSyncopation("SG.json");
-    //parseSynco = new ParseSyncopation("KTH.json");
-    parseSynco = new ParseSyncopation("PRS.json");
-    //parseSynco = new ParseSyncopation("TMC.json");
-    //parseSynco = new ParseSyncopation("TOB.json");
-    //parseSynco = new ParseSyncopation("WNBD.json");
+    parseSyncoKTH = new ParseSyncopation("KTH.json");
+    parseSyncoLHL = new ParseSyncopation("LHL.json");
+    parseSyncoPRS = new ParseSyncopation("PRS.json");
+    parseSyncoSG = new ParseSyncopation("SG.json");
+    parseSyncoTMC = new ParseSyncopation("TMC.json");
+    parseSyncoTOB = new ParseSyncopation("TOB.json");
+    parseSyncoWNBD  = new ParseSyncopation("WNBD.json");
     
     rhythmPicker = new RhythmPicker();
     rhythmPlayer = new RhythmPlayer();
@@ -24,6 +24,32 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    switch (gui->syncoMode) {
+        case 0:
+            parseSynco = parseSyncoKTH;
+            break;
+        case 1:
+            parseSynco = parseSyncoLHL;
+            break;
+        case 2:
+            parseSynco = parseSyncoPRS;
+            break;
+        case 3:
+            parseSynco = parseSyncoSG;
+            break;
+        case 4:
+            parseSynco = parseSyncoTMC;
+            break;
+        case 5:
+            parseSynco = parseSyncoTOB;
+            break;
+        case 6:
+            parseSynco = parseSyncoWNBD;
+            break;
+        default:
+            break;
+    }
+    
     rhythmPicker->update();
     gui->update();
 }

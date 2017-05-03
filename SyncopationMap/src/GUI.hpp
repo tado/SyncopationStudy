@@ -10,4 +10,5 @@ public:
     
     ofxPanel gui;
     ofxToggle drawSynco;
+    ofxIntSlider syncoMode;
 };

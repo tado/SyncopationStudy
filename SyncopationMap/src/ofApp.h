@@ -26,6 +26,14 @@ public:
     void gotMessage(ofMessage msg);
     
     ParseSyncopation *parseSynco;
+    ParseSyncopation *parseSyncoKTH;
+    ParseSyncopation *parseSyncoLHL;
+    ParseSyncopation *parseSyncoPRS;
+    ParseSyncopation *parseSyncoSG;
+    ParseSyncopation *parseSyncoTMC;
+    ParseSyncopation *parseSyncoTOB;
+    ParseSyncopation *parseSyncoWNBD;
+    
     RhythmPicker *rhythmPicker;
     RhythmPlayer *rhythmPlayer;
     GUI *gui;

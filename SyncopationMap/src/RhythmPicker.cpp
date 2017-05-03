@@ -40,8 +40,36 @@ void RhythmPicker::draw(){
         ofSetColor(255);
         for (int i = 0; i < pickedRhythm.size(); i++) {
             string bitStr = app->parseSynco->bar[pickedRhythm[i]].bit;
-            ofDrawBitmapString(bitStr, ofGetWidth() - 100, 20 + i * 15);
+            ofDrawBitmapString(bitStr, ofGetWidth() - 120, 40 + i * 15);
         }
+        
+        string slectedMode;
+        switch (app->gui->syncoMode) {
+            case 0:
+                slectedMode = "KTH";
+                break;
+            case 1:
+                slectedMode = "LHL";
+                break;
+            case 2:
+                slectedMode = "PRS";
+                break;
+            case 3:
+                slectedMode = "SG";
+                break;
+            case 4:
+                slectedMode = "TMC";
+                break;
+            case 5:
+                slectedMode = "TOB";
+                break;
+            case 6:
+                slectedMode = "WNBD";
+                break;
+            default:
+                break;
+        }
+        ofDrawBitmapString("Model: " + slectedMode, ofGetWidth() - 120, 20);
     }
     
     ofSetColor(255, 200);

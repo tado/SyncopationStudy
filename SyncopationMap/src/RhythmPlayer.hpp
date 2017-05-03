@@ -15,4 +15,6 @@ public:
     int count;
     float bpm;
     Poco::AtomicCounter shouldThrowTestException;
+    ofSoundPlayer cp;
+    ofSoundPlayer bd;
 };

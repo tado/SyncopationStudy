@@ -6,9 +6,9 @@ void ofApp::setup(){
     ofSetFrameRate(30);
     
     //parseSynco = new ParseSyncopation("LHL.json");
-    //parseSynco = new ParseSyncopation("SG.json");
+    parseSynco = new ParseSyncopation("SG.json");
     //parseSynco = new ParseSyncopation("KTH.json");
-    parseSynco = new ParseSyncopation("PRS.json");
+    //parseSynco = new ParseSyncopation("PRS.json");
     //parseSynco = new ParseSyncopation("TMC.json");
     //parseSynco = new ParseSyncopation("TOB.json");
     //parseSynco = new ParseSyncopation("WNBD.json");
@@ -16,6 +16,7 @@ void ofApp::setup(){
     rhythmPicker = new RhythmPicker();
     
     rhythmPlayer = new RhythmPlayer();
+    rhythmPlayer->bpm = 110;
     rhythmPlayer->start();
 }
 
@@ -29,7 +30,7 @@ void ofApp::draw(){
     ofSetColor(255, 100);
     parseSynco->draw();
     rhythmPicker->draw();
-    rhythmPlayer->draw();
+    //rhythmPlayer->draw();
 }
 
 //--------------------------------------------------------------

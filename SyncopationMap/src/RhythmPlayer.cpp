@@ -3,6 +3,8 @@
 
 RhythmPlayer::RhythmPlayer(): count(0), shouldThrowTestException(false){
     bpm = 120;
+    cp.load("HANDCLP0.wav");
+    bd.load("BT0A0A7.wav");
 }
 
 void RhythmPlayer::start(){
@@ -19,9 +21,14 @@ void RhythmPlayer::threadedFunction(){
         if(lock()){
             unlock();
 
+            if (count == 0) {
+                bd.play();
+            }
+
             string beat = app->rhythmPicker->pickedBit[0];
-            cout << beat.at(count);
-            
+            if (beat.at(count) == '1') {
+                cp.play();
+            }
             count = (count+1) % 8;
             sleep((120.0/bpm)*1000/8);
         }

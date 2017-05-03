@@ -12,11 +12,13 @@ void ofApp::setup(){
     parseSyncoTMC = new ParseSyncopation("TMC.json");
     parseSyncoTOB = new ParseSyncopation("TOB.json");
     parseSyncoWNBD = new ParseSyncopation("WNBD.json");
+    
+    rhythmPicker = new RhythmPicker();
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    rhythmPicker->update();
 }
 
 //--------------------------------------------------------------
@@ -29,6 +31,8 @@ void ofApp::draw(){
     //parseSyncoTMC->draw();
     //parseSyncoTOB->draw();
     //parseSyncoWNBD->draw();
+    
+    rhythmPicker->draw();
 }
 
 //--------------------------------------------------------------
@@ -43,7 +47,7 @@ void ofApp::keyReleased(int key){
 
 //--------------------------------------------------------------
 void ofApp::mouseMoved(int x, int y ){
-
+    rhythmPicker->mouseMoved(x, y);
 }
 
 //--------------------------------------------------------------

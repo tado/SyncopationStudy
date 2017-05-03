@@ -10,6 +10,7 @@
 
 #include "ofMain.h"
 #include "ofxJSON.h"
+#include "ofxMIToolBox.h"
 #include<bitset>
 
 class Bar {
@@ -17,6 +18,7 @@ public:
     int num;
     string bit;
     float syncopation;
+    float entropy;
     int noteNum;
     ofVec2f location;
     ofVec2f screenLocation;

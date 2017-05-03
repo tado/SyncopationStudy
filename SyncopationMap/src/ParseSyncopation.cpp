@@ -34,6 +34,19 @@ ParseSyncopation::ParseSyncopation(string filename){
             }
             b.noteNum = noteNum;
             
+            //set entropy
+            uint vector[8];
+            for (int i = 0; i < 8; i++) {
+                if (bitStr.at(i) == '1') {
+                    vector[i] = 1;
+                } else {
+                    vector[i] = 0;
+                }
+            }
+            float entropy = calcEntropy(vector, 8);
+            b.entropy = entropy;
+            
+            //push_back into vector
             bar.push_back(b);
         }
 
@@ -43,6 +56,7 @@ ParseSyncopation::ParseSyncopation(string filename){
             ofVec2f loc;
             loc.x = ofMap(bar[i].syncopation, syncopationMin, syncopationMax, 0.0, 1.0);
             loc.y = ofMap(bar[i].noteNum, 0, 8, 0.0, 1.0);
+            //loc.y = ofMap(bar[i].entropy, 0.0, 1.0, 0.0, 1.0);
             bar[i].location = loc;
             
             ofVec2f screenLoc;

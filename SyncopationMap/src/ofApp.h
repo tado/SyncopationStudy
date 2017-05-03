@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ParseSyncopation.hpp"
+#include "RhythmPicker.hpp"
 
 class ofApp : public ofBaseApp{
 public:
@@ -28,4 +29,6 @@ public:
     ParseSyncopation *parseSyncoTMC;
     ParseSyncopation *parseSyncoTOB;
     ParseSyncopation *parseSyncoWNBD;
+    
+    RhythmPicker *rhythmPicker;
 };

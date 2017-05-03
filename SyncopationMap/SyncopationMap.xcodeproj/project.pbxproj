@@ -7,11 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		185099C51EB9B0A7001F73F1 /* ParseSyncopation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 185099C31EB9B0A7001F73F1 /* ParseSyncopation.cpp */; };
+		0D29775C1B09F81C07C7BC87 /* Entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = E24651D54D13DCCAEE742274 /* Entropy.c */; };
+		135E94A6FC6A121E2551A62A /* RenyiEntropy.c in Sources */ = {isa = PBXBuildFile; fileRef = 120B735E4A8115191D7F6420 /* RenyiEntropy.c */; };
+		185099CC1EB9C83A001F73F1 /* RhythmPicker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 185099CA1EB9C83A001F73F1 /* RhythmPicker.cpp */; };
+		44ECA3B8708ABEE0B79D40BE /* WeightedMutualInformation.c in Sources */ = {isa = PBXBuildFile; fileRef = E97B0919FB659C89DDE5E6A8 /* WeightedMutualInformation.c */; };
+		8131C9D9A064A680FD53FE01 /* ArrayOperations.c in Sources */ = {isa = PBXBuildFile; fileRef = 59DC6E7C49FD8FC127C1EE29 /* ArrayOperations.c */; };
+		AFF94BBFB14F8D5347D1780D /* RenyiMutualInformation.c in Sources */ = {isa = PBXBuildFile; fileRef = 3056F3700EC9FB58C7253398 /* RenyiMutualInformation.c */; };
+		B8E75F6411E8ACF7BEB437E8 /* ParseSyncopation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7113C219E4F6EF5C907D9C89 /* ParseSyncopation.cpp */; };
 		BEDFEE7400C58EA4E412B757 /* ofxJSONElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F2B099E6BD1199664C48B177 /* ofxJSONElement.cpp */; };
+		C7BFE805863E8DFB441024BC /* CalculateProbability.c in Sources */ = {isa = PBXBuildFile; fileRef = 02536EF6CAD67D18751906B0 /* CalculateProbability.c */; };
+		D30F7CEED98FD0CCC0E3964E /* MutualInformation.c in Sources */ = {isa = PBXBuildFile; fileRef = CF4B5F347B8F3865E54D4A7B /* MutualInformation.c */; };
 		E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4328148138ABC890047C5CB /* openFrameworksDebug.a */; };
 		E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */; };
 		E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */; };
+		E7C06CFF95447E425742AB77 /* WeightedEntropy.c in Sources */ = {isa = PBXBuildFile; fileRef = C5EC995157362FBE53678115 /* WeightedEntropy.c */; };
 		FB84AAF8D1B7A95266DB5C09 /* jsoncpp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 21BDE665988474F1B1F4D302 /* jsoncpp.cpp */; };
 /* End PBXBuildFile section */
 
@@ -45,13 +54,31 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02536EF6CAD67D18751906B0 /* CalculateProbability.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = CalculateProbability.c; path = ../../../addons/ofxMIToolBox/libs/src/CalculateProbability.c; sourceTree = SOURCE_ROOT; };
+		120B735E4A8115191D7F6420 /* RenyiEntropy.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = RenyiEntropy.c; path = ../../../addons/ofxMIToolBox/libs/src/RenyiEntropy.c; sourceTree = SOURCE_ROOT; };
 		1645F56257269CD0356320BD /* ofxJSON.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxJSON.h; path = ../../../addons/ofxJSON/src/ofxJSON.h; sourceTree = SOURCE_ROOT; };
-		185099C31EB9B0A7001F73F1 /* ParseSyncopation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ParseSyncopation.cpp; sourceTree = "<group>"; };
-		185099C41EB9B0A7001F73F1 /* ParseSyncopation.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = ParseSyncopation.hpp; sourceTree = "<group>"; };
+		185099C91EB9C1CE001F73F1 /* ofxMIToolBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofxMIToolBox.h; path = ../../../addons/ofxMIToolBox/ofxMIToolBox.h; sourceTree = "<group>"; };
+		185099CA1EB9C83A001F73F1 /* RhythmPicker.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RhythmPicker.cpp; sourceTree = "<group>"; };
+		185099CB1EB9C83A001F73F1 /* RhythmPicker.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = RhythmPicker.hpp; sourceTree = "<group>"; };
+		211CE2DE62FE9E9914D979A7 /* ParseSyncopation.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ParseSyncopation.hpp; path = src/ParseSyncopation.hpp; sourceTree = SOURCE_ROOT; };
 		21BDE665988474F1B1F4D302 /* jsoncpp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = jsoncpp.cpp; path = ../../../addons/ofxJSON/libs/jsoncpp/src/jsoncpp.cpp; sourceTree = SOURCE_ROOT; };
+		24A61204F4940DC56B8C2C4C /* RenyiMutualInformation.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = RenyiMutualInformation.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/RenyiMutualInformation.h; sourceTree = SOURCE_ROOT; };
 		26A541233BC6F736E758F718 /* ofxJSONElement.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxJSONElement.h; path = ../../../addons/ofxJSON/src/ofxJSONElement.h; sourceTree = SOURCE_ROOT; };
 		2C7CF000B7B4F782C187C353 /* json.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = json.h; path = ../../../addons/ofxJSON/libs/jsoncpp/include/json/json.h; sourceTree = SOURCE_ROOT; };
+		3056F3700EC9FB58C7253398 /* RenyiMutualInformation.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = RenyiMutualInformation.c; path = ../../../addons/ofxMIToolBox/libs/src/RenyiMutualInformation.c; sourceTree = SOURCE_ROOT; };
+		55E7EE15BAAD13EA448E6245 /* WeightedEntropy.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = WeightedEntropy.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/WeightedEntropy.h; sourceTree = SOURCE_ROOT; };
+		59DC6E7C49FD8FC127C1EE29 /* ArrayOperations.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = ArrayOperations.c; path = ../../../addons/ofxMIToolBox/libs/src/ArrayOperations.c; sourceTree = SOURCE_ROOT; };
+		602CD6665F001DE4CC6B4E18 /* ArrayOperations.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ArrayOperations.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/ArrayOperations.h; sourceTree = SOURCE_ROOT; };
 		61313493CDB52744E22A604D /* json-forwards.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = "json-forwards.h"; path = "../../../addons/ofxJSON/libs/jsoncpp/include/json/json-forwards.h"; sourceTree = SOURCE_ROOT; };
+		6307E43B2F502DC7E915F7C4 /* WeightedMutualInformation.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = WeightedMutualInformation.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/WeightedMutualInformation.h; sourceTree = SOURCE_ROOT; };
+		66FE8C856F54603FDAA6FD88 /* CalculateProbability.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = CalculateProbability.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/CalculateProbability.h; sourceTree = SOURCE_ROOT; };
+		7113C219E4F6EF5C907D9C89 /* ParseSyncopation.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = ParseSyncopation.cpp; path = src/ParseSyncopation.cpp; sourceTree = SOURCE_ROOT; };
+		75563B9BAB458D76465B3175 /* RenyiEntropy.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = RenyiEntropy.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/RenyiEntropy.h; sourceTree = SOURCE_ROOT; };
+		9420E6DF9E49DFF7FA6D817E /* Entropy.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Entropy.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/Entropy.h; sourceTree = SOURCE_ROOT; };
+		B5594165832CB7407A151A39 /* MIToolbox.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = MIToolbox.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/MIToolbox.h; sourceTree = SOURCE_ROOT; };
+		C5EC995157362FBE53678115 /* WeightedEntropy.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = WeightedEntropy.c; path = ../../../addons/ofxMIToolBox/libs/src/WeightedEntropy.c; sourceTree = SOURCE_ROOT; };
+		CF4B5F347B8F3865E54D4A7B /* MutualInformation.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = MutualInformation.c; path = ../../../addons/ofxMIToolBox/libs/src/MutualInformation.c; sourceTree = SOURCE_ROOT; };
+		E24651D54D13DCCAEE742274 /* Entropy.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = Entropy.c; path = ../../../addons/ofxMIToolBox/libs/src/Entropy.c; sourceTree = SOURCE_ROOT; };
 		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
 		E4B69B5B0A3A1756003C02F2 /* SyncopationMapDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SyncopationMapDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
@@ -60,7 +87,9 @@
 		E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
 		E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = CoreOF.xcconfig; path = ../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig; sourceTree = SOURCE_ROOT; };
 		E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
+		E97B0919FB659C89DDE5E6A8 /* WeightedMutualInformation.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 30; name = WeightedMutualInformation.c; path = ../../../addons/ofxMIToolBox/libs/src/WeightedMutualInformation.c; sourceTree = SOURCE_ROOT; };
 		F2B099E6BD1199664C48B177 /* ofxJSONElement.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = ofxJSONElement.cpp; path = ../../../addons/ofxJSON/src/ofxJSONElement.cpp; sourceTree = SOURCE_ROOT; };
+		F33A5641B77A1BA046CBBBC3 /* MutualInformation.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = MutualInformation.h; path = ../../../addons/ofxMIToolBox/libs/include/MIToolbox/MutualInformation.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +104,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		21028E59EF0EC47634686223 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				8C616836E78256C2C0A613B2 /* MIToolbox */,
+			);
+			name = include;
+			sourceTree = "<group>";
+		};
 		2865DAEF86B1907A704CA70B /* ofxJSON */ = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +131,15 @@
 			name = src;
 			sourceTree = "<group>";
 		};
+		49737A56F209B438A7B5750C /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				21028E59EF0EC47634686223 /* include */,
+				FD130A6BD279D55620A673F9 /* src */,
+			);
+			name = libs;
+			sourceTree = "<group>";
+		};
 		58AD3BD71B781D9BC25763C8 /* json */ = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +156,22 @@
 			name = local_addons;
 			sourceTree = "<group>";
 		};
+		8C616836E78256C2C0A613B2 /* MIToolbox */ = {
+			isa = PBXGroup;
+			children = (
+				602CD6665F001DE4CC6B4E18 /* ArrayOperations.h */,
+				66FE8C856F54603FDAA6FD88 /* CalculateProbability.h */,
+				9420E6DF9E49DFF7FA6D817E /* Entropy.h */,
+				B5594165832CB7407A151A39 /* MIToolbox.h */,
+				F33A5641B77A1BA046CBBBC3 /* MutualInformation.h */,
+				75563B9BAB458D76465B3175 /* RenyiEntropy.h */,
+				24A61204F4940DC56B8C2C4C /* RenyiMutualInformation.h */,
+				55E7EE15BAAD13EA448E6245 /* WeightedEntropy.h */,
+				6307E43B2F502DC7E915F7C4 /* WeightedMutualInformation.h */,
+			);
+			name = MIToolbox;
+			sourceTree = "<group>";
+		};
 		977A836DD2C489CCC5E330FF /* jsoncpp */ = {
 			isa = PBXGroup;
 			children = (
@@ -123,6 +185,7 @@
 			isa = PBXGroup;
 			children = (
 				2865DAEF86B1907A704CA70B /* ofxJSON */,
+				FE1F569526FEB914B9EB5E4C /* ofxMIToolBox */,
 			);
 			name = addons;
 			sourceTree = "<group>";
@@ -170,8 +233,10 @@
 				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
 				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
 				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
-				185099C31EB9B0A7001F73F1 /* ParseSyncopation.cpp */,
-				185099C41EB9B0A7001F73F1 /* ParseSyncopation.hpp */,
+				7113C219E4F6EF5C907D9C89 /* ParseSyncopation.cpp */,
+				211CE2DE62FE9E9914D979A7 /* ParseSyncopation.hpp */,
+				185099CA1EB9C83A001F73F1 /* RhythmPicker.cpp */,
+				185099CB1EB9C83A001F73F1 /* RhythmPicker.hpp */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -191,6 +256,30 @@
 				977A836DD2C489CCC5E330FF /* jsoncpp */,
 			);
 			name = libs;
+			sourceTree = "<group>";
+		};
+		FD130A6BD279D55620A673F9 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				59DC6E7C49FD8FC127C1EE29 /* ArrayOperations.c */,
+				02536EF6CAD67D18751906B0 /* CalculateProbability.c */,
+				E24651D54D13DCCAEE742274 /* Entropy.c */,
+				CF4B5F347B8F3865E54D4A7B /* MutualInformation.c */,
+				120B735E4A8115191D7F6420 /* RenyiEntropy.c */,
+				3056F3700EC9FB58C7253398 /* RenyiMutualInformation.c */,
+				C5EC995157362FBE53678115 /* WeightedEntropy.c */,
+				E97B0919FB659C89DDE5E6A8 /* WeightedMutualInformation.c */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		FE1F569526FEB914B9EB5E4C /* ofxMIToolBox */ = {
+			isa = PBXGroup;
+			children = (
+				185099C91EB9C1CE001F73F1 /* ofxMIToolBox.h */,
+				49737A56F209B438A7B5750C /* libs */,
+			);
+			name = ofxMIToolBox;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -280,11 +369,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				185099C51EB9B0A7001F73F1 /* ParseSyncopation.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				185099CC1EB9C83A001F73F1 /* RhythmPicker.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
+				B8E75F6411E8ACF7BEB437E8 /* ParseSyncopation.cpp in Sources */,
 				BEDFEE7400C58EA4E412B757 /* ofxJSONElement.cpp in Sources */,
 				FB84AAF8D1B7A95266DB5C09 /* jsoncpp.cpp in Sources */,
+				8131C9D9A064A680FD53FE01 /* ArrayOperations.c in Sources */,
+				C7BFE805863E8DFB441024BC /* CalculateProbability.c in Sources */,
+				0D29775C1B09F81C07C7BC87 /* Entropy.c in Sources */,
+				D30F7CEED98FD0CCC0E3964E /* MutualInformation.c in Sources */,
+				135E94A6FC6A121E2551A62A /* RenyiEntropy.c in Sources */,
+				AFF94BBFB14F8D5347D1780D /* RenyiMutualInformation.c in Sources */,
+				E7C06CFF95447E425742AB77 /* WeightedEntropy.c in Sources */,
+				44ECA3B8708ABEE0B79D40BE /* WeightedMutualInformation.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,18 +418,30 @@
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(OF_CORE_HEADERS)",
+					src,
 					../../../addons/ofxJSON/libs,
 					../../../addons/ofxJSON/libs/jsoncpp,
 					../../../addons/ofxJSON/libs/jsoncpp/include,
 					../../../addons/ofxJSON/libs/jsoncpp/include/json,
 					../../../addons/ofxJSON/libs/jsoncpp/src,
 					../../../addons/ofxJSON/src,
+					../../../addons/ofxMIToolBox/libs,
+					../../../addons/ofxMIToolBox/libs/include,
+					../../../addons/ofxMIToolBox/libs/include/MIToolbox,
+					../../../addons/ofxMIToolBox/libs/lib,
+					../../../addons/ofxMIToolBox/libs/lib/osx,
+					../../../addons/ofxMIToolBox/libs/src,
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CPLUSPLUSFLAGS = (
 					"-D__MACOSX_CORE__",
 					"-mtune=native",
+				);
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(OF_CORE_LIBS)",
+					../../../addons/ofxMIToolBox/libs/lib/osx/libMIToolbox.dylib,
 				);
 				SDKROOT = macosx;
 			};
@@ -359,17 +469,29 @@
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(OF_CORE_HEADERS)",
+					src,
 					../../../addons/ofxJSON/libs,
 					../../../addons/ofxJSON/libs/jsoncpp,
 					../../../addons/ofxJSON/libs/jsoncpp/include,
 					../../../addons/ofxJSON/libs/jsoncpp/include/json,
 					../../../addons/ofxJSON/libs/jsoncpp/src,
 					../../../addons/ofxJSON/src,
+					../../../addons/ofxMIToolBox/libs,
+					../../../addons/ofxMIToolBox/libs/include,
+					../../../addons/ofxMIToolBox/libs/include/MIToolbox,
+					../../../addons/ofxMIToolBox/libs/lib,
+					../../../addons/ofxMIToolBox/libs/lib/osx,
+					../../../addons/ofxMIToolBox/libs/src,
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				OTHER_CPLUSPLUSFLAGS = (
 					"-D__MACOSX_CORE__",
 					"-mtune=native",
+				);
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(OF_CORE_LIBS)",
+					../../../addons/ofxMIToolBox/libs/lib/osx/libMIToolbox.dylib,
 				);
 				SDKROOT = macosx;
 			};
@@ -391,18 +513,30 @@
 				GCC_MODEL_TUNING = NONE;
 				HEADER_SEARCH_PATHS = (
 					"$(OF_CORE_HEADERS)",
+					src,
 					../../../addons/ofxJSON/libs,
 					../../../addons/ofxJSON/libs/jsoncpp,
 					../../../addons/ofxJSON/libs/jsoncpp/include,
 					../../../addons/ofxJSON/libs/jsoncpp/include/json,
 					../../../addons/ofxJSON/libs/jsoncpp/src,
 					../../../addons/ofxJSON/src,
+					../../../addons/ofxMIToolBox/libs,
+					../../../addons/ofxMIToolBox/libs/include,
+					../../../addons/ofxMIToolBox/libs/include/MIToolbox,
+					../../../addons/ofxMIToolBox/libs/lib,
+					../../../addons/ofxMIToolBox/libs/lib/osx,
+					../../../addons/ofxMIToolBox/libs/src,
 				);
 				ICON = "$(ICON_NAME_DEBUG)";
 				ICON_FILE = "$(ICON_FILE_PATH)$(ICON)";
 				INFOPLIST_FILE = "openFrameworks-Info.plist";
 				INSTALL_PATH = /Applications;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(OF_CORE_LIBS)",
+					../../../addons/ofxMIToolBox/libs/lib/osx/libMIToolbox.dylib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)Debug";
 				WRAPPER_EXTENSION = app;
 			};
@@ -423,18 +557,30 @@
 				GCC_MODEL_TUNING = NONE;
 				HEADER_SEARCH_PATHS = (
 					"$(OF_CORE_HEADERS)",
+					src,
 					../../../addons/ofxJSON/libs,
 					../../../addons/ofxJSON/libs/jsoncpp,
 					../../../addons/ofxJSON/libs/jsoncpp/include,
 					../../../addons/ofxJSON/libs/jsoncpp/include/json,
 					../../../addons/ofxJSON/libs/jsoncpp/src,
 					../../../addons/ofxJSON/src,
+					../../../addons/ofxMIToolBox/libs,
+					../../../addons/ofxMIToolBox/libs/include,
+					../../../addons/ofxMIToolBox/libs/include/MIToolbox,
+					../../../addons/ofxMIToolBox/libs/lib,
+					../../../addons/ofxMIToolBox/libs/lib/osx,
+					../../../addons/ofxMIToolBox/libs/src,
 				);
 				ICON = "$(ICON_NAME_RELEASE)";
 				ICON_FILE = "$(ICON_FILE_PATH)$(ICON)";
 				INFOPLIST_FILE = "openFrameworks-Info.plist";
 				INSTALL_PATH = /Applications;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(OF_CORE_LIBS)",
+					../../../addons/ofxMIToolBox/libs/lib/osx/libMIToolbox.dylib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 				baseConfigurationReference = E4EB6923138AFD0F00A09F29;

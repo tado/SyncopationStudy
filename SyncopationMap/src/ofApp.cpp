@@ -5,13 +5,13 @@ void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(30);
     
-    parseSyncoSG = new ParseSyncopation("SG.json");
-    parseSyncoLHL = new ParseSyncopation("LHL.json");
-    parseSyncoKTH = new ParseSyncopation("KTH.json");
-    parseSyncoPRS = new ParseSyncopation("PRS.json");
-    parseSyncoTMC = new ParseSyncopation("TMC.json");
-    parseSyncoTOB = new ParseSyncopation("TOB.json");
-    parseSyncoWNBD = new ParseSyncopation("WNBD.json");
+    //parseSynco = new ParseSyncopation("LHL.json");
+    //parseSynco = new ParseSyncopation("SG.json");
+    //parseSynco = new ParseSyncopation("KTH.json");
+    parseSynco = new ParseSyncopation("PRS.json");
+    //parseSynco = new ParseSyncopation("TMC.json");
+    //parseSynco = new ParseSyncopation("TOB.json");
+    //parseSynco = new ParseSyncopation("WNBD.json");
     
     rhythmPicker = new RhythmPicker();
 }
@@ -24,14 +24,7 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     ofSetColor(255, 100);
-    //parseSyncoSG->draw();
-    //parseSyncoLHL->draw();
-    //parseSyncoKTH->draw();
-    parseSyncoPRS->draw();
-    //parseSyncoTMC->draw();
-    //parseSyncoTOB->draw();
-    //parseSyncoWNBD->draw();
-    
+    parseSynco->draw();
     rhythmPicker->draw();
 }
 

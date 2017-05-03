@@ -3,16 +3,22 @@
 
 RhythmPicker::RhythmPicker(){
     rhythmDist = 10000;
-    pickedRhythm = 0;
+    pickedRhythm.clear();
 }
 
 void RhythmPicker::update(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
-    for (int i = 0; i < app->parseSyncoPRS->bar.size(); i++) {
-        float dist = mouseLoc.distance(app->parseSyncoPRS->bar[i].screenLocation);
+    for (int i = 0; i < app->parseSynco->bar.size(); i++) {
+        float dist = mouseLoc.distance(app->parseSynco->bar[i].screenLocation);
         if (dist < rhythmDist) {
             rhythmDist = dist;
-            pickedRhythm = i;
+        }
+    }
+    pickedRhythm.clear();
+    for (int i = 0; i < app->parseSynco->bar.size(); i++) {
+        float dist = mouseLoc.distance(app->parseSynco->bar[i].screenLocation);
+        if (dist == rhythmDist) {
+            pickedRhythm.push_back(i);
         }
     }
 }
@@ -25,17 +31,20 @@ void RhythmPicker::draw(){
     ofDrawLine(0, mouseLoc.y, ofGetWidth(), mouseLoc.y);
     
     ofVec2f pickedLoc;
-    pickedLoc = app->parseSyncoPRS->bar[pickedRhythm].screenLocation;
+    pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;
     ofSetColor(255, 0, 0, 127);
     ofDrawCircle(pickedLoc, 10);
     
     ofSetColor(255);
-    string bitStr = app->parseSyncoPRS->bar[pickedRhythm].bit;
-    ofDrawBitmapString(bitStr, 20, 20);
+    for (int i = 0; i < pickedRhythm.size(); i++) {
+        string bitStr = app->parseSynco->bar[pickedRhythm[i]].bit;
+        ofDrawBitmapString(bitStr, 20, 20 + i * 15);
+    }
 }
 
 void RhythmPicker::mouseMoved(int x, int y){
     rhythmDist = 10000;
+    pickedRhythm.clear();
     mouseLoc.x = x;
     mouseLoc.y = y;
 }

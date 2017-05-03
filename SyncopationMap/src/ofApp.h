@@ -22,13 +22,7 @@ public:
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
     
-    ParseSyncopation *parseSyncoSG;
-    ParseSyncopation *parseSyncoLHL;
-    ParseSyncopation *parseSyncoKTH;
-    ParseSyncopation *parseSyncoPRS;
-    ParseSyncopation *parseSyncoTMC;
-    ParseSyncopation *parseSyncoTOB;
-    ParseSyncopation *parseSyncoWNBD;
+    ParseSyncopation *parseSynco;
     
     RhythmPicker *rhythmPicker;
 };

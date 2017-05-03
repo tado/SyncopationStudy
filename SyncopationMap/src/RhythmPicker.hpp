@@ -10,5 +10,5 @@ public:
     
     ofVec2f mouseLoc;
     float rhythmDist;
-    int pickedRhythm;
+    vector<int> pickedRhythm;
 };

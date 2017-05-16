@@ -18,5 +18,8 @@ public:
     Poco::AtomicCounter shouldThrowTestException;
     ofSoundPlayer cp;
     ofSoundPlayer bd;
+    ofSoundPlayer bd2;
     ofSoundPlayer sd;
+    ofSoundPlayer highClick;
+    ofSoundPlayer lowClick;
 };

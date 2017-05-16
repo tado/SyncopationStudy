@@ -72,7 +72,7 @@ void RhythmPicker::draw(){
         ofDrawBitmapString("Model: " + slectedMode, ofGetWidth() - 120, 20);
     }
     
-    ofSetColor(255, 200);
+    ofSetColor(63, 127, 255);
     ofDrawCircle(selectLoc, 15);
 }
 

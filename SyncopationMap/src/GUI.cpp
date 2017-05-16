@@ -2,8 +2,11 @@
 
 GUI::GUI(){
     gui.setup();
-    gui.add(drawSynco.setup("Draw Syncopation", false));
     gui.add(syncoMode.setup("Syncopation Model", 0, 0, 6));
+    gui.add(drawSynco.setup("Draw Syncopation", true));
+    gui.add(guideBeat.setup("Guide / Drum or Click", false));
+    gui.add(timbre.setup("Timbre / BD or Clap", false));
+    gui.loadFromFile("settings.xml");
 }
 
 void GUI::update(){

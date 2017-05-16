@@ -9,6 +9,8 @@ public:
     void draw();
     
     ofxPanel gui;
-    ofxToggle drawSynco;
     ofxIntSlider syncoMode;
+    ofxToggle drawSynco;
+    ofxToggle guideBeat;
+    ofxToggle timbre;
 };

@@ -10,6 +10,7 @@ public:
     
     ofxPanel gui;
     ofxIntSlider syncoMode;
+    ofxIntSlider fps;
     ofxToggle drawSynco;
     ofxToggle guideBeat;
     ofxToggle timbre;

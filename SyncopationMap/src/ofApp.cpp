@@ -6,7 +6,7 @@ void ofApp::setup(){
     ofSetFrameRate(30);
     
     gui = new GUI();
-    showGui = false;
+    showGui = true;
     
     parseSyncoKTH = new ParseSyncopation("KTH.json");
     parseSyncoLHL = new ParseSyncopation("LHL.json");

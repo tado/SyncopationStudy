@@ -58,7 +58,7 @@ void RhythmPlayer::threadedFunction(){
             }
             
             //sleep 1 beat (bpm/8)
-            sleep((120.0/bpm)*1000/8);
+            sleep((120.0/float(app->gui->fps))*1000/8);
         }
     }
 }

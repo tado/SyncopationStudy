@@ -7,6 +7,7 @@ count(0), loopCount(0), bpm(120), shouldThrowTestException(false) {
     bd.load("BT0A0A7.wav");
     bd2.load("ignorebd.wav");
     sd.load("ST0T0S7.wav");
+    hc.load("HHCD2.wav");
     highClick.load("high.wav");
     lowClick.load("low.wav");
 }
@@ -40,10 +41,10 @@ void RhythmPlayer::threadedFunction(){
                 }
             }
             
-            //generate rhythum
-            if(app->rhythmPicker->pickedBit.size() > 0){
-                int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBit.size();
-                string beat = app->rhythmPicker->pickedBit[pickBitNum];
+            //generate rhythum X
+            if(app->rhythmPicker->pickedBitX.size() > 0){
+                int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBitX.size();
+                string beat = app->rhythmPicker->pickedBitX[pickBitNum];
                 if (beat.at(count % 8) == '1') {
                     if (app->gui->timbre) {
                         cp.play();
@@ -52,6 +53,19 @@ void RhythmPlayer::threadedFunction(){
                     }
                 }
             }
+            //generate rhythum Y
+            if(app->rhythmPicker->pickedBitY.size() > 0){
+                int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBitY.size();
+                string beat = app->rhythmPicker->pickedBitY[pickBitNum];
+                if (beat.at(count % 8) == '1') {
+                    if (app->gui->timbre) {
+                        hc.play();
+                    } else {
+                        hc.play();
+                    }
+                }
+            }
+            
             count = (count+1) % 16;
             if (count == 0) {
                 loopCount++;

@@ -16,7 +16,7 @@ public:
     float rhythmDistX;
     float rhythmDistY;
     vector<int> pickedRhythmX;
-    vector<string> pickedBitX;
     vector<int> pickedRhythmY;
+    vector<string> pickedBitX;
     vector<string> pickedBitY;
 };

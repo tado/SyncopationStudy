@@ -43,8 +43,8 @@ ParseSyncopation::ParseSyncopation(string filename){
                     vector[i] = 0;
                 }
             }
-            float entropy = calcEntropy(vector, 8);
-            b.entropy = entropy;
+            //float entropy = calcEntropy(vector, 8);
+            //b.entropy = entropy;
             
             //push_back into vector
             bar.push_back(b);

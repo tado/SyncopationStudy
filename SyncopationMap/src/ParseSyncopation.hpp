@@ -10,7 +10,7 @@
 
 #include "ofMain.h"
 #include "ofxJSON.h"
-#include "ofxMIToolBox.h"
+//#include "ofxMIToolBox.h"
 #include<bitset>
 
 class Bar {

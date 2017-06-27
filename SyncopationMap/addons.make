@@ -1,3 +1,4 @@
 ofxGui
 ofxJSON
 ofxMIToolBox
+ofxXmlSettings

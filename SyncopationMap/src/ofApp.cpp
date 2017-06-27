@@ -20,7 +20,7 @@ void ofApp::setup(){
     rhythmPicker = new RhythmPicker();
     rhythmPlayer = new RhythmPlayer();
     rhythmPlayer->bpm = 120;
-    rhythmPlayer->start();
+    //rhythmPlayer->start();
 }
 
 //--------------------------------------------------------------
@@ -64,6 +64,7 @@ void ofApp::draw(){
     }
     
     rhythmPicker->draw();
+    recorder->draw();
 
     if (showGui) {
         gui->draw();
@@ -82,6 +83,15 @@ void ofApp::keyPressed(int key){
             showGui = false;
         } else {
             showGui = true;
+        }
+    }
+    if (key == ' ') {
+        if (recorder->started == false) {
+            recorder->start();
+            rhythmPlayer->start();
+        } else {
+            recorder->stop();
+            rhythmPlayer->stop();
         }
     }
 }

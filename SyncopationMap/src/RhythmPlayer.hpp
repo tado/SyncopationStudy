@@ -22,4 +22,6 @@ public:
     ofSoundPlayer sd;
     ofSoundPlayer highClick;
     ofSoundPlayer lowClick;
+    
+    string playingBeat;
 };

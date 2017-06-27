@@ -77,27 +77,34 @@ void RhythmPicker::draw(){
 }
 
 void RhythmPicker::mouseMoved(int x, int y){
-
+    rhythmDist = 10000;
+    pickedRhythm.clear();
+    selectLoc.x = x;
+    selectLoc.y = y;
 }
 
 void RhythmPicker::mousePressed(int x, int y, int button){
+    /*
     float dist = selectLoc.distance(ofVec2f(x, y));
     if (dist < 50) {
         selected = true;
     } else {
         selected = false;
     }
+    */
 }
 
 void RhythmPicker::mouseReleased(int x, int y, int button){
-    selected = false;
+    //selected = false;
 }
 
 void RhythmPicker::mouseDragged(int x, int y, int button){
+    /*
     if (selected) {
         rhythmDist = 10000;
         pickedRhythm.clear();
         selectLoc.x = x;
         selectLoc.y = y;
     }
+    */
 }

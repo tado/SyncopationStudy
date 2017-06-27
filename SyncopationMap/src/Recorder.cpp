@@ -28,6 +28,7 @@ void Recorder::update(){
         xml.setValue("pt:count", tagNum, tagNum);
         xml.setValue("pt:elapsedTimef", ofGetElapsedTimef() - startTime, tagNum);
         xml.setValue("pt:frameNum", int(ofGetFrameNum()), tagNum);
+        xml.setValue("pt:playingBeat", app->rhythmPlayer->playingBeat, tagNum);
         xml.setValue("pt:x", app->mouseX, tagNum);
         xml.setValue("pt:y", app->mouseY, tagNum);
     }

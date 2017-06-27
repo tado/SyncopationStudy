@@ -2,6 +2,7 @@
 #include "ofApp.h"
 
 Recorder::Recorder(){
+    font.load("dinbold.ttf", 22);
     started = false;
     time_t current = time(0);
     filename = ofToDataPath("../record/") + ofToString(current) + ".xml";
@@ -17,6 +18,8 @@ void Recorder::start(){
 }
 
 void Recorder::stop(){
+    ofApp *app = ((ofApp*)ofGetAppPtr());
+    app->rhythmPlayer->stop();
     started = false;
     startTime = 0;
 }
@@ -31,6 +34,10 @@ void Recorder::update(){
         xml.setValue("pt:playingBeat", app->rhythmPlayer->playingBeat, tagNum);
         xml.setValue("pt:x", app->mouseX, tagNum);
         xml.setValue("pt:y", app->mouseY, tagNum);
+        
+        if (ofGetElapsedTimef() - startTime > app->gui->expLength) {
+            stop();
+        }
     }
 }
 
@@ -38,7 +45,8 @@ void Recorder::draw(){
     if (started == false) {
         ofSetColor(0);
         ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
-        ofDrawBitmapStringHighlight("Push [Space] key when you are ready to proceed.", ofGetWidth()/2 - 200, ofGetHeight()/2-5);
+        ofSetColor(255);
+        font.drawString("Push [Space] key when you are ready to proceed.", ofGetWidth()/2 - 300, ofGetHeight()/2-5);
     }
 }
 

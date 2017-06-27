@@ -16,4 +16,5 @@ public:
     string filename;
     bool started;
     float startTime;
+    ofTrueTypeFont font;
 };

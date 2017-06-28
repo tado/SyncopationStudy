@@ -44,8 +44,8 @@ void RhythmPlayer::threadedFunction(){
             //generate rhythum X
             if(app->rhythmPicker->pickedBitX.size() > 0){
                 int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBitX.size();
-                string beat = app->rhythmPicker->pickedBitX[pickBitNum];
-                if (beat.at(count % 8) == '1') {
+                playingBeatX = app->rhythmPicker->pickedBitX[pickBitNum];
+                if (playingBeatX.at(count % 8) == '1') {
                     if (app->gui->timbre) {
                         cp.play();
                     } else {
@@ -56,8 +56,8 @@ void RhythmPlayer::threadedFunction(){
             //generate rhythum Y
             if(app->rhythmPicker->pickedBitY.size() > 0){
                 int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBitY.size();
-                string beat = app->rhythmPicker->pickedBitY[pickBitNum];
-                if (beat.at(count % 8) == '1') {
+                playingBeatY = app->rhythmPicker->pickedBitY[pickBitNum];
+                if (playingBeatY.at(count % 8) == '1') {
                     if (app->gui->timbre) {
                         hc.play();
                     } else {

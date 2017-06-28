@@ -5,6 +5,7 @@
 #include "RhythmPicker.hpp"
 #include "RhythmPlayer.hpp"
 #include "GUI.hpp"
+#include "Recorder.hpp"
 
 class ofApp : public ofBaseApp{
 public:
@@ -36,6 +37,7 @@ public:
     
     RhythmPicker *rhythmPicker;
     RhythmPlayer *rhythmPlayer;
+    Recorder *recorder;
     GUI *gui;
     bool showGui;
 };

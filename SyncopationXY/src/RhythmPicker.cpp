@@ -107,9 +107,15 @@ void RhythmPicker::draw(){
 }
 
 void RhythmPicker::mouseMoved(int x, int y){
-
+    rhythmDistX = 10000;
+    rhythmDistY = 10000;
+    pickedRhythmX.clear();
+    pickedRhythmY.clear();
+    selectLoc.x = x;
+    selectLoc.y = y;
 }
 
+/*
 void RhythmPicker::mousePressed(int x, int y, int button){
     float dist = selectLoc.distance(ofVec2f(x, y));
     if (dist < 50) {
@@ -133,3 +139,4 @@ void RhythmPicker::mouseDragged(int x, int y, int button){
         selectLoc.y = y;
     }
 }
+*/

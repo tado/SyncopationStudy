@@ -6,7 +6,7 @@ void ofApp::setup(){
     ofSetFrameRate(30);
     
     gui = new GUI();
-    showGui = true;
+    showGui = false;
     
     parseSyncoKTH = new ParseSyncopation("KTH.json");
     parseSyncoLHL = new ParseSyncopation("LHL.json");
@@ -16,10 +16,11 @@ void ofApp::setup(){
     parseSyncoTOB = new ParseSyncopation("TOB.json");
     parseSyncoWNBD  = new ParseSyncopation("WNBD.json");
     
+    recorder = new Recorder();
     rhythmPicker = new RhythmPicker();
     rhythmPlayer = new RhythmPlayer();
     rhythmPlayer->bpm = 120;
-    rhythmPlayer->start();
+    //rhythmPlayer->start();
 }
 
 //--------------------------------------------------------------
@@ -52,6 +53,7 @@ void ofApp::update(){
     
     rhythmPicker->update();
     gui->update();
+    recorder->update();
 }
 
 //--------------------------------------------------------------
@@ -62,6 +64,7 @@ void ofApp::draw(){
     }
     
     rhythmPicker->draw();
+    recorder->draw();
 
     if (showGui) {
         gui->draw();
@@ -81,6 +84,15 @@ void ofApp::keyPressed(int key){
             showGui = true;
         }
     }
+    if (key == ' ') {
+        if (recorder->started == false) {
+            recorder->start();
+            rhythmPlayer->start();
+        } else {
+            recorder->stop();
+            rhythmPlayer->stop();
+        }
+    }
 }
 
 //--------------------------------------------------------------
@@ -95,17 +107,17 @@ void ofApp::mouseMoved(int x, int y ){
 
 //--------------------------------------------------------------
 void ofApp::mouseDragged(int x, int y, int button){
-    rhythmPicker->mouseDragged(x, y, button);
+    //rhythmPicker->mouseDragged(x, y, button);
 }
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
-    rhythmPicker->mousePressed(x, y, button);
+    //rhythmPicker->mousePressed(x, y, button);
 }
 
 //--------------------------------------------------------------
 void ofApp::mouseReleased(int x, int y, int button){
-    rhythmPicker->mouseReleased(x, y, button);
+    //rhythmPicker->mouseReleased(x, y, button);
 }
 
 //--------------------------------------------------------------

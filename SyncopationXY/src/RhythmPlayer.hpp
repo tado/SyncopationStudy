@@ -23,4 +23,6 @@ public:
     ofSoundPlayer hc;
     ofSoundPlayer highClick;
     ofSoundPlayer lowClick;
+    string playingBeatX;
+    string playingBeatY;
 };

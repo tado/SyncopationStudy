@@ -14,6 +14,7 @@ public:
     
     int count;
     int loopCount;
+    int pickBitNum;
     float bpm;
     Poco::AtomicCounter shouldThrowTestException;
     ofSoundPlayer cp;

@@ -9,6 +9,8 @@ count(0), loopCount(0), bpm(120), shouldThrowTestException(false) {
     sd.load("ST0T0S7.wav");
     highClick.load("high.wav");
     lowClick.load("low.wav");
+    
+    pickBitNum = 0;
 }
 
 void RhythmPlayer::start(){
@@ -42,7 +44,7 @@ void RhythmPlayer::threadedFunction(){
             
             //generate rhythum
             if(app->rhythmPicker->pickedBit.size() > 0){
-                int pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBit.size();
+                //pickBitNum = (loopCount/8) % app->rhythmPicker->pickedBit.size();
                 playingBeat = app->rhythmPicker->pickedBit[pickBitNum];
                 if (playingBeat.at(count % 8) == '1') {
                     if (app->gui->timbre) {

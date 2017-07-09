@@ -17,4 +17,5 @@ public:
     bool started;
     float startTime;
     ofTrueTypeFont font;
+    ofImage img;
 };

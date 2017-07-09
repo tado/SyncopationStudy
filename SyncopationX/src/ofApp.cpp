@@ -104,6 +104,7 @@ void ofApp::keyReleased(int key){
 //--------------------------------------------------------------
 void ofApp::mouseMoved(int x, int y ){
     rhythmPicker->mouseMoved(x, y);
+    rhythmPlayer->pickBitNum = ofRandom(rhythmPicker->pickedBit.size());
 }
 
 //--------------------------------------------------------------

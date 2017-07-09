@@ -37,6 +37,7 @@ void RhythmPicker::draw(){
     if (app->gui->drawSynco) {
         ofSetColor(255, 0, 0, 127);
         ofDrawCircle(pickedLoc, 10);
+        /*
         ofSetColor(255);
         for (int i = 0; i < pickedRhythm.size(); i++) {
             string bitStr = app->parseSynco->bar[pickedRhythm[i]].bit;
@@ -70,6 +71,7 @@ void RhythmPicker::draw(){
                 break;
         }
         ofDrawBitmapString("Model: " + slectedMode, ofGetWidth() - 120, 20);
+     */
     }
     /*
     ofSetColor(63, 127, 255);

@@ -10,6 +10,7 @@ Recorder::Recorder(){
     xml.clear();
     int tagNum = xml.addTag("head");
     xml.setValue("head:unixtime", int(current), tagNum);
+    img.load("instruction.png");
 }
 
 void Recorder::start(){
@@ -44,10 +45,14 @@ void Recorder::update(){
 
 void Recorder::draw(){
     if (started == false) {
+        /*
         ofSetColor(0);
         ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
         ofSetColor(255);
         font.drawString("Push [Space] key when you are ready to proceed.", ofGetWidth()/2 - 300, ofGetHeight()/2-5);
+        */
+        ofSetColor(255);
+        img.draw(0, 0);
     }
 }
 

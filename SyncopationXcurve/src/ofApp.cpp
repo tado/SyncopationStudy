@@ -21,7 +21,8 @@ void ofApp::setup(){
     rhythmPlayer = new RhythmPlayer();
     rhythmPlayer->bpm = 120;
     //rhythmPlayer->start();
-    drawCurve = new DrawCurve();
+    //drawCurve = new DrawCurve();
+    drawFitting = new DrawFitting();
 }
 
 //--------------------------------------------------------------
@@ -55,7 +56,10 @@ void ofApp::update(){
     rhythmPicker->update();
     gui->update();
     recorder->update();
-    drawCurve->update();
+    drawFitting->update();
+    if (recorder->started) {
+        //drawCurve->update();
+    }
 }
 
 //--------------------------------------------------------------
@@ -67,7 +71,8 @@ void ofApp::draw(){
     
     rhythmPicker->draw();
     recorder->draw();
-    drawCurve->draw();
+    //drawCurve->draw();
+    drawFitting->draw();
 
     if (showGui) {
         gui->draw();
@@ -92,9 +97,11 @@ void ofApp::keyPressed(int key){
         if (recorder->started == false) {
             recorder->start();
             rhythmPlayer->start();
+            drawFitting->started = true;
         } else {
             recorder->stop();
             rhythmPlayer->stop();
+            drawFitting->started = false;
         }
     }
 }

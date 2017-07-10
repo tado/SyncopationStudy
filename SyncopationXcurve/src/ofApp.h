@@ -6,7 +6,9 @@
 #include "RhythmPlayer.hpp"
 #include "GUI.hpp"
 #include "Recorder.hpp"
-#include "DrawCurve.hpp"
+//#include "DrawCurve.hpp"
+#include "DrawFitting.hpp"
+
 
 class ofApp : public ofBaseApp{
 public:
@@ -40,6 +42,7 @@ public:
     RhythmPlayer *rhythmPlayer;
     GUI *gui;
     Recorder *recorder;
-    DrawCurve *drawCurve;
+    //DrawCurve *drawCurve;
+    DrawFitting *drawFitting;
     bool showGui;
 };

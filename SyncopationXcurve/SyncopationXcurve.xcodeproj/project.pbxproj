@@ -10,6 +10,7 @@
 		08AA5AD1AC60429816BB3150 /* Recorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D759483A848ED62AAFD5C059 /* Recorder.cpp */; };
 		0D29775C1B09F81C07C7BC87 /* Entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = E24651D54D13DCCAEE742274 /* Entropy.c */; };
 		135E94A6FC6A121E2551A62A /* RenyiEntropy.c in Sources */ = {isa = PBXBuildFile; fileRef = 120B735E4A8115191D7F6420 /* RenyiEntropy.c */; };
+		181B1D311F135D7500F246CF /* DrawFitting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 181B1D2F1F135D7500F246CF /* DrawFitting.cpp */; };
 		183B97611F133B17001E9968 /* DrawCurve.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183B975F1F133B16001E9968 /* DrawCurve.cpp */; };
 		1CD33E884D9E3358252E82A1 /* ofxToggle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 907C5B5E104864A2D3A25745 /* ofxToggle.cpp */; };
 		44ECA3B8708ABEE0B79D40BE /* WeightedMutualInformation.c in Sources */ = {isa = PBXBuildFile; fileRef = E97B0919FB659C89DDE5E6A8 /* WeightedMutualInformation.c */; };
@@ -78,6 +79,8 @@
 		15F2C6477A769C03A56D1401 /* ofxSlider.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = ofxSlider.cpp; path = ../../../addons/ofxGui/src/ofxSlider.cpp; sourceTree = SOURCE_ROOT; };
 		1645F56257269CD0356320BD /* ofxJSON.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxJSON.h; path = ../../../addons/ofxJSON/src/ofxJSON.h; sourceTree = SOURCE_ROOT; };
 		17E65988300FBD9AAA2CD0CA /* ofxGui.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxGui.h; path = ../../../addons/ofxGui/src/ofxGui.h; sourceTree = SOURCE_ROOT; };
+		181B1D2F1F135D7500F246CF /* DrawFitting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DrawFitting.cpp; sourceTree = "<group>"; };
+		181B1D301F135D7500F246CF /* DrawFitting.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DrawFitting.hpp; sourceTree = "<group>"; };
 		183B975F1F133B16001E9968 /* DrawCurve.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DrawCurve.cpp; sourceTree = "<group>"; };
 		183B97601F133B16001E9968 /* DrawCurve.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DrawCurve.hpp; sourceTree = "<group>"; };
 		1C0DA2561397A7DE0246858B /* ofxGuiGroup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxGuiGroup.h; path = ../../../addons/ofxGui/src/ofxGuiGroup.h; sourceTree = SOURCE_ROOT; };
@@ -354,6 +357,8 @@
 				CDA59895FB94223F99934F5E /* RhythmPlayer.hpp */,
 				183B975F1F133B16001E9968 /* DrawCurve.cpp */,
 				183B97601F133B16001E9968 /* DrawCurve.hpp */,
+				181B1D2F1F135D7500F246CF /* DrawFitting.cpp */,
+				181B1D301F135D7500F246CF /* DrawFitting.hpp */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -495,6 +500,7 @@
 				856AA354D08AB4B323081444 /* ofxBaseGui.cpp in Sources */,
 				5CBB2AB3A60F65431D7B555D /* ofxButton.cpp in Sources */,
 				B266578FC55D23BFEBC042E7 /* ofxGuiGroup.cpp in Sources */,
+				181B1D311F135D7500F246CF /* DrawFitting.cpp in Sources */,
 				483908258D00B98B4BE69F07 /* ofxLabel.cpp in Sources */,
 				F285EB3169F1566CA3D93C20 /* ofxPanel.cpp in Sources */,
 				837220E80EB56CD44AD27F2A /* ofxSlider.cpp in Sources */,

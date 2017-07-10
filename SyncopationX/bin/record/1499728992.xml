@@ -1,0 +1,7955 @@
+<head>
+    <unixtime>1499728992</unixtime>
+</head>
+<pt>
+    <count>0</count>
+    <elapsedTimef>0.000128865</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>1</count>
+    <elapsedTimef>0.020123482</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>2</count>
+    <elapsedTimef>0.053100705</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>3</count>
+    <elapsedTimef>0.087218642</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>4</count>
+    <elapsedTimef>0.119896650</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>5</count>
+    <elapsedTimef>0.152937770</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>6</count>
+    <elapsedTimef>0.186805487</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>655</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>7</count>
+    <elapsedTimef>0.219843507</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>656</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>8</count>
+    <elapsedTimef>0.253116488</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>661</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>9</count>
+    <elapsedTimef>0.285849571</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>667</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>10</count>
+    <elapsedTimef>0.320026994</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>670</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>11</count>
+    <elapsedTimef>0.352971554</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>672</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>12</count>
+    <elapsedTimef>0.386589885</elapsedTimef>
+    <playingBeat>00100011</playingBeat>
+    <x>674</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>13</count>
+    <elapsedTimef>0.420408607</elapsedTimef>
+    <playingBeat>00100011</playingBeat>
+    <x>677</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>14</count>
+    <elapsedTimef>0.453176141</elapsedTimef>
+    <playingBeat>00100011</playingBeat>
+    <x>682</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>15</count>
+    <elapsedTimef>0.486272216</elapsedTimef>
+    <playingBeat>00100011</playingBeat>
+    <x>687</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>16</count>
+    <elapsedTimef>0.520691276</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>690</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>17</count>
+    <elapsedTimef>0.554019094</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>18</count>
+    <elapsedTimef>0.586842656</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>19</count>
+    <elapsedTimef>0.619767785</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>20</count>
+    <elapsedTimef>0.653068900</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>21</count>
+    <elapsedTimef>0.686418891</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>22</count>
+    <elapsedTimef>0.722167134</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>23</count>
+    <elapsedTimef>0.754839063</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>24</count>
+    <elapsedTimef>0.788212895</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>25</count>
+    <elapsedTimef>0.821190476</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>26</count>
+    <elapsedTimef>0.854436040</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>27</count>
+    <elapsedTimef>0.888005376</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>28</count>
+    <elapsedTimef>0.921446204</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>29</count>
+    <elapsedTimef>0.954237342</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>30</count>
+    <elapsedTimef>0.987408042</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>31</count>
+    <elapsedTimef>1.020727038</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>32</count>
+    <elapsedTimef>1.053372264</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>33</count>
+    <elapsedTimef>1.086278081</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>34</count>
+    <elapsedTimef>1.120560050</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>35</count>
+    <elapsedTimef>1.153905272</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>36</count>
+    <elapsedTimef>1.187323451</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>37</count>
+    <elapsedTimef>1.220680594</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>38</count>
+    <elapsedTimef>1.253969312</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>39</count>
+    <elapsedTimef>1.286600947</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>40</count>
+    <elapsedTimef>1.320592046</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>41</count>
+    <elapsedTimef>1.353963256</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>42</count>
+    <elapsedTimef>1.387373805</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>43</count>
+    <elapsedTimef>1.420710206</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>44</count>
+    <elapsedTimef>1.453955293</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>45</count>
+    <elapsedTimef>1.487300754</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>46</count>
+    <elapsedTimef>1.520899415</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>47</count>
+    <elapsedTimef>1.553969264</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>48</count>
+    <elapsedTimef>1.587354064</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>49</count>
+    <elapsedTimef>1.620905995</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>50</count>
+    <elapsedTimef>1.653851390</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>51</count>
+    <elapsedTimef>1.688475490</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>52</count>
+    <elapsedTimef>1.720713496</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>53</count>
+    <elapsedTimef>1.753111959</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>54</count>
+    <elapsedTimef>1.787619472</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>55</count>
+    <elapsedTimef>1.820670247</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>56</count>
+    <elapsedTimef>1.853642583</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>57</count>
+    <elapsedTimef>1.887266278</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>58</count>
+    <elapsedTimef>1.920791984</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>59</count>
+    <elapsedTimef>1.954189420</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>60</count>
+    <elapsedTimef>1.987477899</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>61</count>
+    <elapsedTimef>2.020845413</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>62</count>
+    <elapsedTimef>2.052897930</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>63</count>
+    <elapsedTimef>2.087398052</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>64</count>
+    <elapsedTimef>2.120909214</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>65</count>
+    <elapsedTimef>2.153750420</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>66</count>
+    <elapsedTimef>2.187111855</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>67</count>
+    <elapsedTimef>2.220562458</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>68</count>
+    <elapsedTimef>2.253967285</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>69</count>
+    <elapsedTimef>2.286507130</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>70</count>
+    <elapsedTimef>2.320895672</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>71</count>
+    <elapsedTimef>2.354176998</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>72</count>
+    <elapsedTimef>2.386991501</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>73</count>
+    <elapsedTimef>2.420753479</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>74</count>
+    <elapsedTimef>2.454109669</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>75</count>
+    <elapsedTimef>2.487638474</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>76</count>
+    <elapsedTimef>2.520488739</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>77</count>
+    <elapsedTimef>2.554050922</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>78</count>
+    <elapsedTimef>2.587146759</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>79</count>
+    <elapsedTimef>2.620534897</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>80</count>
+    <elapsedTimef>2.653360844</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>81</count>
+    <elapsedTimef>2.687139034</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>82</count>
+    <elapsedTimef>2.722098827</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>83</count>
+    <elapsedTimef>2.753976345</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>84</count>
+    <elapsedTimef>2.787301540</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>85</count>
+    <elapsedTimef>2.820932865</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>86</count>
+    <elapsedTimef>2.853720665</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>87</count>
+    <elapsedTimef>2.887254238</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>88</count>
+    <elapsedTimef>2.920334816</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>691</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>89</count>
+    <elapsedTimef>2.953194141</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>690</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>90</count>
+    <elapsedTimef>2.986954212</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>687</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>91</count>
+    <elapsedTimef>3.020076275</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>686</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>92</count>
+    <elapsedTimef>3.053997040</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>685</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>93</count>
+    <elapsedTimef>3.087328434</elapsedTimef>
+    <playingBeat>00111010</playingBeat>
+    <x>685</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>94</count>
+    <elapsedTimef>3.120972633</elapsedTimef>
+    <playingBeat>00111010</playingBeat>
+    <x>684</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>95</count>
+    <elapsedTimef>3.152661800</elapsedTimef>
+    <playingBeat>00111010</playingBeat>
+    <x>681</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>96</count>
+    <elapsedTimef>3.187519550</elapsedTimef>
+    <playingBeat>00111010</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>97</count>
+    <elapsedTimef>3.220973492</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>98</count>
+    <elapsedTimef>3.253887653</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>99</count>
+    <elapsedTimef>3.287262440</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>100</count>
+    <elapsedTimef>3.320742130</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>101</count>
+    <elapsedTimef>3.352915287</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>102</count>
+    <elapsedTimef>3.387404442</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>103</count>
+    <elapsedTimef>3.420884609</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>104</count>
+    <elapsedTimef>3.455051422</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>105</count>
+    <elapsedTimef>3.487296104</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>106</count>
+    <elapsedTimef>3.520642281</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>107</count>
+    <elapsedTimef>3.553556919</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>108</count>
+    <elapsedTimef>3.587133408</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>109</count>
+    <elapsedTimef>3.621064663</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>110</count>
+    <elapsedTimef>3.653969765</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>111</count>
+    <elapsedTimef>3.687316895</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>112</count>
+    <elapsedTimef>3.721737862</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>113</count>
+    <elapsedTimef>3.754240513</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>114</count>
+    <elapsedTimef>3.787331104</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>115</count>
+    <elapsedTimef>3.820678234</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>116</count>
+    <elapsedTimef>3.854026794</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>117</count>
+    <elapsedTimef>3.887480736</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>118</count>
+    <elapsedTimef>3.920823574</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>119</count>
+    <elapsedTimef>3.954186440</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>120</count>
+    <elapsedTimef>3.987618446</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>121</count>
+    <elapsedTimef>4.020784378</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>122</count>
+    <elapsedTimef>4.054164886</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>123</count>
+    <elapsedTimef>4.087656021</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>124</count>
+    <elapsedTimef>4.120807171</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>125</count>
+    <elapsedTimef>4.153652668</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>126</count>
+    <elapsedTimef>4.187059402</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>127</count>
+    <elapsedTimef>4.220844269</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>128</count>
+    <elapsedTimef>4.254079342</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>129</count>
+    <elapsedTimef>4.287443161</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>130</count>
+    <elapsedTimef>4.320825100</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>131</count>
+    <elapsedTimef>4.354062080</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>132</count>
+    <elapsedTimef>4.387194633</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>133</count>
+    <elapsedTimef>4.420599461</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>134</count>
+    <elapsedTimef>4.453954697</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>135</count>
+    <elapsedTimef>4.487380981</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>136</count>
+    <elapsedTimef>4.520868301</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>680</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>137</count>
+    <elapsedTimef>4.553442478</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>681</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>138</count>
+    <elapsedTimef>4.586868763</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>689</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>139</count>
+    <elapsedTimef>4.620076180</elapsedTimef>
+    <playingBeat>01100001</playingBeat>
+    <x>704</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>140</count>
+    <elapsedTimef>4.654096603</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>718</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>141</count>
+    <elapsedTimef>4.688688755</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>726</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>142</count>
+    <elapsedTimef>4.720212936</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>727</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>143</count>
+    <elapsedTimef>4.753386021</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>728</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>144</count>
+    <elapsedTimef>4.786973476</elapsedTimef>
+    <playingBeat>01101010</playingBeat>
+    <x>728</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>145</count>
+    <elapsedTimef>4.820702553</elapsedTimef>
+    <playingBeat>01101010</playingBeat>
+    <x>729</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>146</count>
+    <elapsedTimef>4.854238510</elapsedTimef>
+    <playingBeat>01101010</playingBeat>
+    <x>730</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>147</count>
+    <elapsedTimef>4.886639118</elapsedTimef>
+    <playingBeat>11000000</playingBeat>
+    <x>732</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>148</count>
+    <elapsedTimef>4.920936108</elapsedTimef>
+    <playingBeat>11000000</playingBeat>
+    <x>734</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>149</count>
+    <elapsedTimef>4.953250408</elapsedTimef>
+    <playingBeat>11000000</playingBeat>
+    <x>736</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>150</count>
+    <elapsedTimef>4.986999035</elapsedTimef>
+    <playingBeat>11000000</playingBeat>
+    <x>737</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>151</count>
+    <elapsedTimef>5.019856930</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>741</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>152</count>
+    <elapsedTimef>5.054007530</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>153</count>
+    <elapsedTimef>5.087398052</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>154</count>
+    <elapsedTimef>5.120579243</elapsedTimef>
+    <playingBeat>11000011</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>155</count>
+    <elapsedTimef>5.154128075</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>156</count>
+    <elapsedTimef>5.187477112</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>157</count>
+    <elapsedTimef>5.220563412</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>158</count>
+    <elapsedTimef>5.253977299</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>159</count>
+    <elapsedTimef>5.287697792</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>160</count>
+    <elapsedTimef>5.320832729</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>161</count>
+    <elapsedTimef>5.353111744</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>162</count>
+    <elapsedTimef>5.387354374</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>163</count>
+    <elapsedTimef>5.419935226</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>164</count>
+    <elapsedTimef>5.453945637</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>165</count>
+    <elapsedTimef>5.487306595</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>166</count>
+    <elapsedTimef>5.520825386</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>167</count>
+    <elapsedTimef>5.554191113</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>168</count>
+    <elapsedTimef>5.587594509</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>169</count>
+    <elapsedTimef>5.620731354</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>170</count>
+    <elapsedTimef>5.654118061</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>171</count>
+    <elapsedTimef>5.687184811</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>172</count>
+    <elapsedTimef>5.719480515</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>173</count>
+    <elapsedTimef>5.753898621</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>174</count>
+    <elapsedTimef>5.787367821</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>175</count>
+    <elapsedTimef>5.820100784</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>176</count>
+    <elapsedTimef>5.853952885</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>177</count>
+    <elapsedTimef>5.887331486</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>178</count>
+    <elapsedTimef>5.920707703</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>179</count>
+    <elapsedTimef>5.953846931</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>180</count>
+    <elapsedTimef>5.986804008</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>181</count>
+    <elapsedTimef>6.020698071</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>182</count>
+    <elapsedTimef>6.054028511</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>183</count>
+    <elapsedTimef>6.087297440</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>184</count>
+    <elapsedTimef>6.120700836</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>185</count>
+    <elapsedTimef>6.154064178</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>186</count>
+    <elapsedTimef>6.187564850</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>187</count>
+    <elapsedTimef>6.220888138</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>188</count>
+    <elapsedTimef>6.254133701</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>189</count>
+    <elapsedTimef>6.287572384</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>190</count>
+    <elapsedTimef>6.320376396</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>191</count>
+    <elapsedTimef>6.353558540</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>192</count>
+    <elapsedTimef>6.387453079</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>193</count>
+    <elapsedTimef>6.420809746</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>194</count>
+    <elapsedTimef>6.454234123</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>195</count>
+    <elapsedTimef>6.487569809</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>196</count>
+    <elapsedTimef>6.519976616</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>197</count>
+    <elapsedTimef>6.553966522</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>198</count>
+    <elapsedTimef>6.587386131</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>199</count>
+    <elapsedTimef>6.620689392</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>200</count>
+    <elapsedTimef>6.654049873</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>201</count>
+    <elapsedTimef>6.688567162</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>202</count>
+    <elapsedTimef>6.720557213</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>203</count>
+    <elapsedTimef>6.753966331</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>204</count>
+    <elapsedTimef>6.787609100</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>205</count>
+    <elapsedTimef>6.820825577</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>743</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>206</count>
+    <elapsedTimef>6.854057312</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>745</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>207</count>
+    <elapsedTimef>6.887453079</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>755</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>208</count>
+    <elapsedTimef>6.920626640</elapsedTimef>
+    <playingBeat>11010110</playingBeat>
+    <x>773</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>209</count>
+    <elapsedTimef>6.953478813</elapsedTimef>
+    <playingBeat>00101110</playingBeat>
+    <x>799</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>210</count>
+    <elapsedTimef>6.987115860</elapsedTimef>
+    <playingBeat>00101110</playingBeat>
+    <x>816</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>211</count>
+    <elapsedTimef>7.020812035</elapsedTimef>
+    <playingBeat>00101110</playingBeat>
+    <x>826</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>212</count>
+    <elapsedTimef>7.054327965</elapsedTimef>
+    <playingBeat>00101110</playingBeat>
+    <x>835</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>213</count>
+    <elapsedTimef>7.087759972</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>837</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>214</count>
+    <elapsedTimef>7.120694160</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>837</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>215</count>
+    <elapsedTimef>7.153573036</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>837</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>216</count>
+    <elapsedTimef>7.187457085</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>837</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>217</count>
+    <elapsedTimef>7.220923424</elapsedTimef>
+    <playingBeat>11010101</playingBeat>
+    <x>837</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>218</count>
+    <elapsedTimef>7.254338264</elapsedTimef>
+    <playingBeat>11010101</playingBeat>
+    <x>838</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>219</count>
+    <elapsedTimef>7.287528992</elapsedTimef>
+    <playingBeat>11010101</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>220</count>
+    <elapsedTimef>7.320682526</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>221</count>
+    <elapsedTimef>7.353819847</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>222</count>
+    <elapsedTimef>7.387607574</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>223</count>
+    <elapsedTimef>7.420820236</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>224</count>
+    <elapsedTimef>7.454184532</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>225</count>
+    <elapsedTimef>7.487792015</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>226</count>
+    <elapsedTimef>7.520952225</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>227</count>
+    <elapsedTimef>7.553763390</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>228</count>
+    <elapsedTimef>7.587557793</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>229</count>
+    <elapsedTimef>7.620942116</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>230</count>
+    <elapsedTimef>7.653796196</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>231</count>
+    <elapsedTimef>7.688589096</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>232</count>
+    <elapsedTimef>7.721076965</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>233</count>
+    <elapsedTimef>7.753996849</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>234</count>
+    <elapsedTimef>7.787453651</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>235</count>
+    <elapsedTimef>7.820925713</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>236</count>
+    <elapsedTimef>7.854277611</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>237</count>
+    <elapsedTimef>7.887789726</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>238</count>
+    <elapsedTimef>7.920800209</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>239</count>
+    <elapsedTimef>7.954116821</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>240</count>
+    <elapsedTimef>7.987613678</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>241</count>
+    <elapsedTimef>8.020568848</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>242</count>
+    <elapsedTimef>8.054137230</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>243</count>
+    <elapsedTimef>8.087702751</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>244</count>
+    <elapsedTimef>8.120739937</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>245</count>
+    <elapsedTimef>8.154105186</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>246</count>
+    <elapsedTimef>8.187381744</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>247</count>
+    <elapsedTimef>8.221080780</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>248</count>
+    <elapsedTimef>8.254024506</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>249</count>
+    <elapsedTimef>8.287529945</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>250</count>
+    <elapsedTimef>8.320495605</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>251</count>
+    <elapsedTimef>8.353640556</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>252</count>
+    <elapsedTimef>8.387439728</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>253</count>
+    <elapsedTimef>8.420783997</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>254</count>
+    <elapsedTimef>8.453158379</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>255</count>
+    <elapsedTimef>8.487437248</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>256</count>
+    <elapsedTimef>8.520912170</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>257</count>
+    <elapsedTimef>8.554327011</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>258</count>
+    <elapsedTimef>8.587530136</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>259</count>
+    <elapsedTimef>8.621048927</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>260</count>
+    <elapsedTimef>8.653861046</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>261</count>
+    <elapsedTimef>8.687992096</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>262</count>
+    <elapsedTimef>8.720776558</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>263</count>
+    <elapsedTimef>8.754203796</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>264</count>
+    <elapsedTimef>8.786669731</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>265</count>
+    <elapsedTimef>8.820287704</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>266</count>
+    <elapsedTimef>8.853284836</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>267</count>
+    <elapsedTimef>8.887781143</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>268</count>
+    <elapsedTimef>8.920609474</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>839</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>269</count>
+    <elapsedTimef>8.953227997</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>835</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>270</count>
+    <elapsedTimef>8.987058640</elapsedTimef>
+    <playingBeat>01100000</playingBeat>
+    <x>830</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>271</count>
+    <elapsedTimef>9.021066666</elapsedTimef>
+    <playingBeat>01100000</playingBeat>
+    <x>828</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>272</count>
+    <elapsedTimef>9.054380417</elapsedTimef>
+    <playingBeat>01100000</playingBeat>
+    <x>826</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>273</count>
+    <elapsedTimef>9.087259293</elapsedTimef>
+    <playingBeat>01100000</playingBeat>
+    <x>825</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>274</count>
+    <elapsedTimef>9.121077538</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>821</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>275</count>
+    <elapsedTimef>9.153308868</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>819</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>276</count>
+    <elapsedTimef>9.186932564</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>277</count>
+    <elapsedTimef>9.220978737</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>278</count>
+    <elapsedTimef>9.254109383</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>279</count>
+    <elapsedTimef>9.287450790</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>280</count>
+    <elapsedTimef>9.320851326</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>281</count>
+    <elapsedTimef>9.353857040</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>282</count>
+    <elapsedTimef>9.387634277</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>283</count>
+    <elapsedTimef>9.420616150</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>284</count>
+    <elapsedTimef>9.454192162</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>285</count>
+    <elapsedTimef>9.486786842</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>286</count>
+    <elapsedTimef>9.520887375</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>287</count>
+    <elapsedTimef>9.553273201</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>288</count>
+    <elapsedTimef>9.587582588</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>289</count>
+    <elapsedTimef>9.620963097</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>290</count>
+    <elapsedTimef>9.654255867</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>291</count>
+    <elapsedTimef>9.687802315</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>292</count>
+    <elapsedTimef>9.720872879</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>293</count>
+    <elapsedTimef>9.754224777</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>294</count>
+    <elapsedTimef>9.787492752</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>295</count>
+    <elapsedTimef>9.820872307</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>816</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>296</count>
+    <elapsedTimef>9.854353905</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>818</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>297</count>
+    <elapsedTimef>9.887410164</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>824</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>298</count>
+    <elapsedTimef>9.920878410</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>834</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>299</count>
+    <elapsedTimef>9.953413963</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>841</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>300</count>
+    <elapsedTimef>9.987258911</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>845</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>301</count>
+    <elapsedTimef>10.021208763</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>849</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>302</count>
+    <elapsedTimef>10.054218292</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>853</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>303</count>
+    <elapsedTimef>10.087354660</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>857</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>304</count>
+    <elapsedTimef>10.120820045</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>862</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>305</count>
+    <elapsedTimef>10.153452873</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>867</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>306</count>
+    <elapsedTimef>10.186801910</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>872</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>307</count>
+    <elapsedTimef>10.221123695</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>875</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>308</count>
+    <elapsedTimef>10.254309654</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>878</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>309</count>
+    <elapsedTimef>10.287478447</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>882</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>310</count>
+    <elapsedTimef>10.321280479</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>884</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>311</count>
+    <elapsedTimef>10.353231430</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>885</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>312</count>
+    <elapsedTimef>10.386767387</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>887</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>313</count>
+    <elapsedTimef>10.421051979</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>889</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>314</count>
+    <elapsedTimef>10.453685760</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>891</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>315</count>
+    <elapsedTimef>10.487474442</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>895</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>316</count>
+    <elapsedTimef>10.521111488</elapsedTimef>
+    <playingBeat>00111101</playingBeat>
+    <x>897</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>317</count>
+    <elapsedTimef>10.553310394</elapsedTimef>
+    <playingBeat>00111101</playingBeat>
+    <x>898</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>318</count>
+    <elapsedTimef>10.587030411</elapsedTimef>
+    <playingBeat>00111101</playingBeat>
+    <x>899</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>319</count>
+    <elapsedTimef>10.621279716</elapsedTimef>
+    <playingBeat>00111101</playingBeat>
+    <x>900</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>320</count>
+    <elapsedTimef>10.654335022</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>901</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>321</count>
+    <elapsedTimef>10.689004898</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>901</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>322</count>
+    <elapsedTimef>10.721087456</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>901</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>323</count>
+    <elapsedTimef>10.753869057</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>901</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>324</count>
+    <elapsedTimef>10.786825180</elapsedTimef>
+    <playingBeat>01111100</playingBeat>
+    <x>900</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>325</count>
+    <elapsedTimef>10.820878983</elapsedTimef>
+    <playingBeat>01111100</playingBeat>
+    <x>897</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>326</count>
+    <elapsedTimef>10.854497910</elapsedTimef>
+    <playingBeat>01111100</playingBeat>
+    <x>886</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>327</count>
+    <elapsedTimef>10.887367249</elapsedTimef>
+    <playingBeat>01111100</playingBeat>
+    <x>870</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>328</count>
+    <elapsedTimef>10.921275139</elapsedTimef>
+    <playingBeat>00010011</playingBeat>
+    <x>851</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>329</count>
+    <elapsedTimef>10.953504562</elapsedTimef>
+    <playingBeat>00010011</playingBeat>
+    <x>830</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>330</count>
+    <elapsedTimef>10.986646652</elapsedTimef>
+    <playingBeat>00010011</playingBeat>
+    <x>802</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>331</count>
+    <elapsedTimef>11.021049500</elapsedTimef>
+    <playingBeat>00010011</playingBeat>
+    <x>770</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>332</count>
+    <elapsedTimef>11.053898811</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>737</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>333</count>
+    <elapsedTimef>11.087579727</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>699</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>334</count>
+    <elapsedTimef>11.120648384</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>673</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>335</count>
+    <elapsedTimef>11.153410912</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>654</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>336</count>
+    <elapsedTimef>11.187028885</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>645</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>337</count>
+    <elapsedTimef>11.221023560</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>641</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>338</count>
+    <elapsedTimef>11.254326820</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>637</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>339</count>
+    <elapsedTimef>11.286952019</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>633</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>340</count>
+    <elapsedTimef>11.321187973</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>624</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>341</count>
+    <elapsedTimef>11.352776527</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>613</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>342</count>
+    <elapsedTimef>11.386845589</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>604</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>343</count>
+    <elapsedTimef>11.421040535</elapsedTimef>
+    <playingBeat>11110111</playingBeat>
+    <x>603</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>344</count>
+    <elapsedTimef>11.454210281</elapsedTimef>
+    <playingBeat>11110111</playingBeat>
+    <x>603</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>345</count>
+    <elapsedTimef>11.487081528</elapsedTimef>
+    <playingBeat>11110111</playingBeat>
+    <x>603</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>346</count>
+    <elapsedTimef>11.520734787</elapsedTimef>
+    <playingBeat>11110111</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>347</count>
+    <elapsedTimef>11.554124832</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>348</count>
+    <elapsedTimef>11.586914062</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>349</count>
+    <elapsedTimef>11.620847702</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>350</count>
+    <elapsedTimef>11.654248238</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>351</count>
+    <elapsedTimef>11.686676979</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>352</count>
+    <elapsedTimef>11.721798897</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>353</count>
+    <elapsedTimef>11.754311562</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>354</count>
+    <elapsedTimef>11.787563324</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>355</count>
+    <elapsedTimef>11.821063995</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>356</count>
+    <elapsedTimef>11.854043007</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>357</count>
+    <elapsedTimef>11.886859894</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>358</count>
+    <elapsedTimef>11.920389175</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>359</count>
+    <elapsedTimef>11.953995705</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>602</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>360</count>
+    <elapsedTimef>11.987172127</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>603</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>361</count>
+    <elapsedTimef>12.021070480</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>604</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>362</count>
+    <elapsedTimef>12.054327965</elapsedTimef>
+    <playingBeat>11100100</playingBeat>
+    <x>604</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>363</count>
+    <elapsedTimef>12.087084770</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>607</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>364</count>
+    <elapsedTimef>12.120976448</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>608</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>365</count>
+    <elapsedTimef>12.153464317</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>610</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>366</count>
+    <elapsedTimef>12.186852455</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>614</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>367</count>
+    <elapsedTimef>12.220935822</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>618</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>368</count>
+    <elapsedTimef>12.254378319</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>620</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>369</count>
+    <elapsedTimef>12.287078857</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>622</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>370</count>
+    <elapsedTimef>12.321045876</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>371</count>
+    <elapsedTimef>12.353907585</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>372</count>
+    <elapsedTimef>12.388130188</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>373</count>
+    <elapsedTimef>12.420942307</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>374</count>
+    <elapsedTimef>12.454199791</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>375</count>
+    <elapsedTimef>12.486761093</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>376</count>
+    <elapsedTimef>12.520824432</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>377</count>
+    <elapsedTimef>12.553526878</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>378</count>
+    <elapsedTimef>12.586894035</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>379</count>
+    <elapsedTimef>12.620820045</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>380</count>
+    <elapsedTimef>12.654193878</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>381</count>
+    <elapsedTimef>12.686533928</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>382</count>
+    <elapsedTimef>12.722264290</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>383</count>
+    <elapsedTimef>12.754224777</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>384</count>
+    <elapsedTimef>12.786783218</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>385</count>
+    <elapsedTimef>12.820819855</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>386</count>
+    <elapsedTimef>12.854327202</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>387</count>
+    <elapsedTimef>12.886919022</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>388</count>
+    <elapsedTimef>12.920193672</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>389</count>
+    <elapsedTimef>12.954052925</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>390</count>
+    <elapsedTimef>12.986862183</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>391</count>
+    <elapsedTimef>13.020839691</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>392</count>
+    <elapsedTimef>13.054233551</elapsedTimef>
+    <playingBeat>10000110</playingBeat>
+    <x>623</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>393</count>
+    <elapsedTimef>13.087118149</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>614</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>394</count>
+    <elapsedTimef>13.121191025</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>598</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>395</count>
+    <elapsedTimef>13.153364182</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>586</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>396</count>
+    <elapsedTimef>13.186882019</elapsedTimef>
+    <playingBeat>11100101</playingBeat>
+    <x>578</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>397</count>
+    <elapsedTimef>13.220875740</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>571</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>398</count>
+    <elapsedTimef>13.254426003</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>566</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>399</count>
+    <elapsedTimef>13.287142754</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>560</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>400</count>
+    <elapsedTimef>13.321159363</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>553</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>401</count>
+    <elapsedTimef>13.353902817</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>545</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>402</count>
+    <elapsedTimef>13.387258530</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>538</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>403</count>
+    <elapsedTimef>13.420121193</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>535</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>404</count>
+    <elapsedTimef>13.453180313</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>532</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>405</count>
+    <elapsedTimef>13.486918449</elapsedTimef>
+    <playingBeat>01111111</playingBeat>
+    <x>529</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>406</count>
+    <elapsedTimef>13.521042824</elapsedTimef>
+    <playingBeat>01111111</playingBeat>
+    <x>526</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>407</count>
+    <elapsedTimef>13.553495407</elapsedTimef>
+    <playingBeat>01111111</playingBeat>
+    <x>522</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>408</count>
+    <elapsedTimef>13.587174416</elapsedTimef>
+    <playingBeat>01111111</playingBeat>
+    <x>519</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>409</count>
+    <elapsedTimef>13.621015549</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>410</count>
+    <elapsedTimef>13.655851364</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>411</count>
+    <elapsedTimef>13.686728477</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>412</count>
+    <elapsedTimef>13.722079277</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>413</count>
+    <elapsedTimef>13.753803253</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>414</count>
+    <elapsedTimef>13.786755562</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>415</count>
+    <elapsedTimef>13.820172310</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>416</count>
+    <elapsedTimef>13.853647232</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>417</count>
+    <elapsedTimef>13.886896133</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>418</count>
+    <elapsedTimef>13.920747757</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>518</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>419</count>
+    <elapsedTimef>13.953473091</elapsedTimef>
+    <playingBeat>01111011</playingBeat>
+    <x>519</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>420</count>
+    <elapsedTimef>13.986896515</elapsedTimef>
+    <playingBeat>10110110</playingBeat>
+    <x>524</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>421</count>
+    <elapsedTimef>14.020339966</elapsedTimef>
+    <playingBeat>10110110</playingBeat>
+    <x>532</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>422</count>
+    <elapsedTimef>14.054244041</elapsedTimef>
+    <playingBeat>10110110</playingBeat>
+    <x>542</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>423</count>
+    <elapsedTimef>14.087013245</elapsedTimef>
+    <playingBeat>10110110</playingBeat>
+    <x>551</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>424</count>
+    <elapsedTimef>14.121414185</elapsedTimef>
+    <playingBeat>00101011</playingBeat>
+    <x>560</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>425</count>
+    <elapsedTimef>14.153452873</elapsedTimef>
+    <playingBeat>00101011</playingBeat>
+    <x>564</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>426</count>
+    <elapsedTimef>14.187240601</elapsedTimef>
+    <playingBeat>00101011</playingBeat>
+    <x>566</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>427</count>
+    <elapsedTimef>14.220223427</elapsedTimef>
+    <playingBeat>00101011</playingBeat>
+    <x>568</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>428</count>
+    <elapsedTimef>14.254218102</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>571</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>429</count>
+    <elapsedTimef>14.287164688</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>573</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>430</count>
+    <elapsedTimef>14.320936203</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>576</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>431</count>
+    <elapsedTimef>14.354282379</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>577</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>432</count>
+    <elapsedTimef>14.387204170</elapsedTimef>
+    <playingBeat>00011111</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>433</count>
+    <elapsedTimef>14.421179771</elapsedTimef>
+    <playingBeat>00011111</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>434</count>
+    <elapsedTimef>14.453433037</elapsedTimef>
+    <playingBeat>00011111</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>435</count>
+    <elapsedTimef>14.486996651</elapsedTimef>
+    <playingBeat>00011111</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>436</count>
+    <elapsedTimef>14.520956993</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>437</count>
+    <elapsedTimef>14.554078102</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>438</count>
+    <elapsedTimef>14.586752892</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>439</count>
+    <elapsedTimef>14.620860100</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>440</count>
+    <elapsedTimef>14.654068947</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>578</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>441</count>
+    <elapsedTimef>14.687371254</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>579</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>442</count>
+    <elapsedTimef>14.722584724</elapsedTimef>
+    <playingBeat>00111001</playingBeat>
+    <x>579</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>443</count>
+    <elapsedTimef>14.754340172</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>579</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>444</count>
+    <elapsedTimef>14.787705421</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>579</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>445</count>
+    <elapsedTimef>14.821034431</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>579</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>446</count>
+    <elapsedTimef>14.854313850</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>580</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>447</count>
+    <elapsedTimef>14.887564659</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>581</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>448</count>
+    <elapsedTimef>14.921055794</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>582</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>449</count>
+    <elapsedTimef>14.953265190</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>581</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>450</count>
+    <elapsedTimef>14.986849785</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>577</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>451</count>
+    <elapsedTimef>15.021185875</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>559</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>452</count>
+    <elapsedTimef>15.054238319</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>526</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>453</count>
+    <elapsedTimef>15.087613106</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>488</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>454</count>
+    <elapsedTimef>15.121205330</elapsedTimef>
+    <playingBeat>11001001</playingBeat>
+    <x>466</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>455</count>
+    <elapsedTimef>15.154099464</elapsedTimef>
+    <playingBeat>11100000</playingBeat>
+    <x>457</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>456</count>
+    <elapsedTimef>15.187064171</elapsedTimef>
+    <playingBeat>11100000</playingBeat>
+    <x>450</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>457</count>
+    <elapsedTimef>15.221112251</elapsedTimef>
+    <playingBeat>11100000</playingBeat>
+    <x>444</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>458</count>
+    <elapsedTimef>15.254225731</elapsedTimef>
+    <playingBeat>11100000</playingBeat>
+    <x>441</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>459</count>
+    <elapsedTimef>15.287634850</elapsedTimef>
+    <playingBeat>10100110</playingBeat>
+    <x>437</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>460</count>
+    <elapsedTimef>15.321282387</elapsedTimef>
+    <playingBeat>10100110</playingBeat>
+    <x>434</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>461</count>
+    <elapsedTimef>15.353934288</elapsedTimef>
+    <playingBeat>10100110</playingBeat>
+    <x>434</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>462</count>
+    <elapsedTimef>15.387541771</elapsedTimef>
+    <playingBeat>10100110</playingBeat>
+    <x>434</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>463</count>
+    <elapsedTimef>15.421051979</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>464</count>
+    <elapsedTimef>15.454249382</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>465</count>
+    <elapsedTimef>15.487761497</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>466</count>
+    <elapsedTimef>15.520487785</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>467</count>
+    <elapsedTimef>15.554238319</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>468</count>
+    <elapsedTimef>15.587904930</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>469</count>
+    <elapsedTimef>15.620242119</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>470</count>
+    <elapsedTimef>15.654211998</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>471</count>
+    <elapsedTimef>15.687405586</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>472</count>
+    <elapsedTimef>15.722243309</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>473</count>
+    <elapsedTimef>15.754212379</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>474</count>
+    <elapsedTimef>15.787455559</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>475</count>
+    <elapsedTimef>15.820302010</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>476</count>
+    <elapsedTimef>15.853652000</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>477</count>
+    <elapsedTimef>15.887547493</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>478</count>
+    <elapsedTimef>15.920765877</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>479</count>
+    <elapsedTimef>15.954037666</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>480</count>
+    <elapsedTimef>15.987463951</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>481</count>
+    <elapsedTimef>16.020936966</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>482</count>
+    <elapsedTimef>16.054372787</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>483</count>
+    <elapsedTimef>16.087703705</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>484</count>
+    <elapsedTimef>16.120553970</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>485</count>
+    <elapsedTimef>16.154003143</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>486</count>
+    <elapsedTimef>16.187568665</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>487</count>
+    <elapsedTimef>16.220933914</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>488</count>
+    <elapsedTimef>16.253515244</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>489</count>
+    <elapsedTimef>16.287443161</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>490</count>
+    <elapsedTimef>16.321056366</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>491</count>
+    <elapsedTimef>16.353649139</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>492</count>
+    <elapsedTimef>16.387567520</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>493</count>
+    <elapsedTimef>16.419500351</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>494</count>
+    <elapsedTimef>16.454111099</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>495</count>
+    <elapsedTimef>16.487594604</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>496</count>
+    <elapsedTimef>16.521013260</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>497</count>
+    <elapsedTimef>16.554370880</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>498</count>
+    <elapsedTimef>16.587850571</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>499</count>
+    <elapsedTimef>16.620910645</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>500</count>
+    <elapsedTimef>16.654285431</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>501</count>
+    <elapsedTimef>16.687696457</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>502</count>
+    <elapsedTimef>16.722166061</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>503</count>
+    <elapsedTimef>16.754253387</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>504</count>
+    <elapsedTimef>16.787805557</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>505</count>
+    <elapsedTimef>16.820615768</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>506</count>
+    <elapsedTimef>16.854246140</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>507</count>
+    <elapsedTimef>16.887359619</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>508</count>
+    <elapsedTimef>16.920902252</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>509</count>
+    <elapsedTimef>16.953529358</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>510</count>
+    <elapsedTimef>16.987670898</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>511</count>
+    <elapsedTimef>17.021181107</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>512</count>
+    <elapsedTimef>17.054546356</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>513</count>
+    <elapsedTimef>17.087049484</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>514</count>
+    <elapsedTimef>17.121109009</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>515</count>
+    <elapsedTimef>17.154266357</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>516</count>
+    <elapsedTimef>17.187829971</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>517</count>
+    <elapsedTimef>17.220424652</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>518</count>
+    <elapsedTimef>17.254154205</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>519</count>
+    <elapsedTimef>17.287508011</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>520</count>
+    <elapsedTimef>17.321020126</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>521</count>
+    <elapsedTimef>17.353937149</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>522</count>
+    <elapsedTimef>17.387660980</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>523</count>
+    <elapsedTimef>17.420412064</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>524</count>
+    <elapsedTimef>17.454278946</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>525</count>
+    <elapsedTimef>17.487707138</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>526</count>
+    <elapsedTimef>17.520462036</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>527</count>
+    <elapsedTimef>17.553909302</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>528</count>
+    <elapsedTimef>17.587373734</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>529</count>
+    <elapsedTimef>17.620481491</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>530</count>
+    <elapsedTimef>17.654037476</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>531</count>
+    <elapsedTimef>17.687685013</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>532</count>
+    <elapsedTimef>17.722473145</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>533</count>
+    <elapsedTimef>17.754270554</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>534</count>
+    <elapsedTimef>17.787651062</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>535</count>
+    <elapsedTimef>17.821075439</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>536</count>
+    <elapsedTimef>17.854415894</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>537</count>
+    <elapsedTimef>17.887958527</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>538</count>
+    <elapsedTimef>17.921041489</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>539</count>
+    <elapsedTimef>17.954254150</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>540</count>
+    <elapsedTimef>17.987642288</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>541</count>
+    <elapsedTimef>18.021123886</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>542</count>
+    <elapsedTimef>18.053958893</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>543</count>
+    <elapsedTimef>18.087705612</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>544</count>
+    <elapsedTimef>18.120428085</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>545</count>
+    <elapsedTimef>18.154138565</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>546</count>
+    <elapsedTimef>18.187360764</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>547</count>
+    <elapsedTimef>18.220882416</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>548</count>
+    <elapsedTimef>18.254259109</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>549</count>
+    <elapsedTimef>18.287746429</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>550</count>
+    <elapsedTimef>18.321260452</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>551</count>
+    <elapsedTimef>18.353277206</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>552</count>
+    <elapsedTimef>18.387208939</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>553</count>
+    <elapsedTimef>18.421033859</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>554</count>
+    <elapsedTimef>18.454431534</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>555</count>
+    <elapsedTimef>18.488325119</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>556</count>
+    <elapsedTimef>18.521247864</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>557</count>
+    <elapsedTimef>18.553310394</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>433</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>558</count>
+    <elapsedTimef>18.587112427</elapsedTimef>
+    <playingBeat>11011010</playingBeat>
+    <x>435</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>559</count>
+    <elapsedTimef>18.621196747</elapsedTimef>
+    <playingBeat>11111001</playingBeat>
+    <x>439</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>560</count>
+    <elapsedTimef>18.653152466</elapsedTimef>
+    <playingBeat>11111001</playingBeat>
+    <x>441</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>561</count>
+    <elapsedTimef>18.694044113</elapsedTimef>
+    <playingBeat>11111001</playingBeat>
+    <x>442</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>562</count>
+    <elapsedTimef>18.723417282</elapsedTimef>
+    <playingBeat>11111001</playingBeat>
+    <x>444</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>563</count>
+    <elapsedTimef>18.753728867</elapsedTimef>
+    <playingBeat>10100011</playingBeat>
+    <x>445</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>564</count>
+    <elapsedTimef>18.786993027</elapsedTimef>
+    <playingBeat>10100011</playingBeat>
+    <x>447</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>565</count>
+    <elapsedTimef>18.820898056</elapsedTimef>
+    <playingBeat>10100011</playingBeat>
+    <x>453</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>566</count>
+    <elapsedTimef>18.855218887</elapsedTimef>
+    <playingBeat>10100011</playingBeat>
+    <x>459</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>567</count>
+    <elapsedTimef>18.888101578</elapsedTimef>
+    <playingBeat>11001010</playingBeat>
+    <x>463</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>568</count>
+    <elapsedTimef>18.921257019</elapsedTimef>
+    <playingBeat>11001010</playingBeat>
+    <x>470</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>569</count>
+    <elapsedTimef>18.953351974</elapsedTimef>
+    <playingBeat>11001010</playingBeat>
+    <x>474</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>570</count>
+    <elapsedTimef>18.986946106</elapsedTimef>
+    <playingBeat>11001010</playingBeat>
+    <x>479</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>571</count>
+    <elapsedTimef>19.021093369</elapsedTimef>
+    <playingBeat>11100011</playingBeat>
+    <x>483</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>572</count>
+    <elapsedTimef>19.054437637</elapsedTimef>
+    <playingBeat>11100011</playingBeat>
+    <x>486</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>573</count>
+    <elapsedTimef>19.087554932</elapsedTimef>
+    <playingBeat>11100011</playingBeat>
+    <x>493</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>574</count>
+    <elapsedTimef>19.120758057</elapsedTimef>
+    <playingBeat>11100011</playingBeat>
+    <x>510</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>575</count>
+    <elapsedTimef>19.153419495</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>539</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>576</count>
+    <elapsedTimef>19.187002182</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>563</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>577</count>
+    <elapsedTimef>19.221183777</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>588</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>578</count>
+    <elapsedTimef>19.254457474</elapsedTimef>
+    <playingBeat>10110111</playingBeat>
+    <x>610</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>579</count>
+    <elapsedTimef>19.287357330</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>624</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>580</count>
+    <elapsedTimef>19.321220398</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>634</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>581</count>
+    <elapsedTimef>19.354656219</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>639</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>582</count>
+    <elapsedTimef>19.386997223</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>644</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>583</count>
+    <elapsedTimef>19.421176910</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>653</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>584</count>
+    <elapsedTimef>19.454219818</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>663</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>585</count>
+    <elapsedTimef>19.487535477</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>677</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>586</count>
+    <elapsedTimef>19.521081924</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>693</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>587</count>
+    <elapsedTimef>19.553384781</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>705</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>588</count>
+    <elapsedTimef>19.588098526</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>720</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>589</count>
+    <elapsedTimef>19.621194839</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>733</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>590</count>
+    <elapsedTimef>19.653902054</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>741</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>591</count>
+    <elapsedTimef>19.687555313</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>746</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>592</count>
+    <elapsedTimef>19.722536087</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>749</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>593</count>
+    <elapsedTimef>19.754310608</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>749</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>594</count>
+    <elapsedTimef>19.787004471</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>749</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>595</count>
+    <elapsedTimef>19.821102142</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>751</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>596</count>
+    <elapsedTimef>19.853454590</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>751</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>597</count>
+    <elapsedTimef>19.888402939</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>753</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>598</count>
+    <elapsedTimef>19.921289444</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>755</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>599</count>
+    <elapsedTimef>19.954263687</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>755</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>600</count>
+    <elapsedTimef>19.987064362</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>756</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>601</count>
+    <elapsedTimef>20.021411896</elapsedTimef>
+    <playingBeat>10000101</playingBeat>
+    <x>756</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>602</count>
+    <elapsedTimef>20.054382324</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>756</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>603</count>
+    <elapsedTimef>20.087564468</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>756</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>604</count>
+    <elapsedTimef>20.120618820</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>756</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>605</count>
+    <elapsedTimef>20.154527664</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>756</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>606</count>
+    <elapsedTimef>20.186855316</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>607</count>
+    <elapsedTimef>20.220226288</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>608</count>
+    <elapsedTimef>20.253534317</elapsedTimef>
+    <playingBeat>10010000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>609</count>
+    <elapsedTimef>20.286069870</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>610</count>
+    <elapsedTimef>20.321088791</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>611</count>
+    <elapsedTimef>20.353878021</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>756</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>612</count>
+    <elapsedTimef>20.387351990</elapsedTimef>
+    <playingBeat>01101000</playingBeat>
+    <x>754</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>613</count>
+    <elapsedTimef>20.421245575</elapsedTimef>
+    <playingBeat>11010011</playingBeat>
+    <x>750</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>614</count>
+    <elapsedTimef>20.453784943</elapsedTimef>
+    <playingBeat>11010011</playingBeat>
+    <x>745</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>615</count>
+    <elapsedTimef>20.487672806</elapsedTimef>
+    <playingBeat>11010011</playingBeat>
+    <x>742</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>616</count>
+    <elapsedTimef>20.521038055</elapsedTimef>
+    <playingBeat>11010011</playingBeat>
+    <x>734</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>617</count>
+    <elapsedTimef>20.553598404</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>726</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>618</count>
+    <elapsedTimef>20.587833405</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>718</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>619</count>
+    <elapsedTimef>20.621229172</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>709</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>620</count>
+    <elapsedTimef>20.654006958</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>703</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>621</count>
+    <elapsedTimef>20.687664032</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>697</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>622</count>
+    <elapsedTimef>20.722784042</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>694</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>623</count>
+    <elapsedTimef>20.753606796</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>689</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>624</count>
+    <elapsedTimef>20.788122177</elapsedTimef>
+    <playingBeat>00001110</playingBeat>
+    <x>683</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>625</count>
+    <elapsedTimef>20.821121216</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>679</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>626</count>
+    <elapsedTimef>20.854499817</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>677</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>627</count>
+    <elapsedTimef>20.888004303</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>674</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>628</count>
+    <elapsedTimef>20.920888901</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>670</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>629</count>
+    <elapsedTimef>20.953609467</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>669</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>630</count>
+    <elapsedTimef>20.987997055</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>669</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>631</count>
+    <elapsedTimef>21.021263123</elapsedTimef>
+    <playingBeat>10110101</playingBeat>
+    <x>669</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>632</count>
+    <elapsedTimef>21.054107666</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>669</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>633</count>
+    <elapsedTimef>21.087612152</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>669</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>634</count>
+    <elapsedTimef>21.121143341</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>671</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>635</count>
+    <elapsedTimef>21.153396606</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>676</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>636</count>
+    <elapsedTimef>21.186742783</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>688</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>637</count>
+    <elapsedTimef>21.220888138</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>703</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>638</count>
+    <elapsedTimef>21.254463196</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>717</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>639</count>
+    <elapsedTimef>21.287605286</elapsedTimef>
+    <playingBeat>10110001</playingBeat>
+    <x>726</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>640</count>
+    <elapsedTimef>21.321210861</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>733</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>641</count>
+    <elapsedTimef>21.354503632</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>737</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>642</count>
+    <elapsedTimef>21.386964798</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>740</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>643</count>
+    <elapsedTimef>21.421316147</elapsedTimef>
+    <playingBeat>11110100</playingBeat>
+    <x>742</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>644</count>
+    <elapsedTimef>21.454338074</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>745</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>645</count>
+    <elapsedTimef>21.487642288</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>749</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>646</count>
+    <elapsedTimef>21.521476746</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>753</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>647</count>
+    <elapsedTimef>21.553359985</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>754</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>648</count>
+    <elapsedTimef>21.587024689</elapsedTimef>
+    <playingBeat>01111010</playingBeat>
+    <x>757</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>649</count>
+    <elapsedTimef>21.621175766</elapsedTimef>
+    <playingBeat>01111010</playingBeat>
+    <x>764</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>650</count>
+    <elapsedTimef>21.653591156</elapsedTimef>
+    <playingBeat>01111010</playingBeat>
+    <x>773</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>651</count>
+    <elapsedTimef>21.687484741</elapsedTimef>
+    <playingBeat>01111010</playingBeat>
+    <x>784</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>652</count>
+    <elapsedTimef>21.722057343</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>796</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>653</count>
+    <elapsedTimef>21.753625870</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>809</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>654</count>
+    <elapsedTimef>21.787090302</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>815</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>655</count>
+    <elapsedTimef>21.821277618</elapsedTimef>
+    <playingBeat>00011000</playingBeat>
+    <x>819</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>656</count>
+    <elapsedTimef>21.854413986</elapsedTimef>
+    <playingBeat>00011000</playingBeat>
+    <x>821</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>657</count>
+    <elapsedTimef>21.887559891</elapsedTimef>
+    <playingBeat>00011000</playingBeat>
+    <x>824</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>658</count>
+    <elapsedTimef>21.920982361</elapsedTimef>
+    <playingBeat>00011000</playingBeat>
+    <x>828</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>659</count>
+    <elapsedTimef>21.953405380</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>831</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>660</count>
+    <elapsedTimef>21.987134933</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>838</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>661</count>
+    <elapsedTimef>22.021305084</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>846</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>662</count>
+    <elapsedTimef>22.054559708</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>850</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>663</count>
+    <elapsedTimef>22.087747574</elapsedTimef>
+    <playingBeat>00001101</playingBeat>
+    <x>853</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>664</count>
+    <elapsedTimef>22.121219635</elapsedTimef>
+    <playingBeat>00001101</playingBeat>
+    <x>854</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>665</count>
+    <elapsedTimef>22.153297424</elapsedTimef>
+    <playingBeat>00001101</playingBeat>
+    <x>854</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>666</count>
+    <elapsedTimef>22.187808990</elapsedTimef>
+    <playingBeat>00001101</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>667</count>
+    <elapsedTimef>22.221008301</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>668</count>
+    <elapsedTimef>22.254301071</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>669</count>
+    <elapsedTimef>22.287797928</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>670</count>
+    <elapsedTimef>22.321289062</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>671</count>
+    <elapsedTimef>22.353639603</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>672</count>
+    <elapsedTimef>22.387941360</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>854</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>673</count>
+    <elapsedTimef>22.421323776</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>851</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>674</count>
+    <elapsedTimef>22.454313278</elapsedTimef>
+    <playingBeat>01111101</playingBeat>
+    <x>847</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>675</count>
+    <elapsedTimef>22.487138748</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>842</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>676</count>
+    <elapsedTimef>22.520889282</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>833</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>677</count>
+    <elapsedTimef>22.553453445</elapsedTimef>
+    <playingBeat>01110111</playingBeat>
+    <x>826</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>678</count>
+    <elapsedTimef>22.587127686</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>821</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>679</count>
+    <elapsedTimef>22.621047974</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>814</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>680</count>
+    <elapsedTimef>22.654479980</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>806</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>681</count>
+    <elapsedTimef>22.687702179</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>799</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>682</count>
+    <elapsedTimef>22.721925735</elapsedTimef>
+    <playingBeat>11000100</playingBeat>
+    <x>792</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>683</count>
+    <elapsedTimef>22.753709793</elapsedTimef>
+    <playingBeat>11000100</playingBeat>
+    <x>782</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>684</count>
+    <elapsedTimef>22.788307190</elapsedTimef>
+    <playingBeat>11000100</playingBeat>
+    <x>772</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>685</count>
+    <elapsedTimef>22.821214676</elapsedTimef>
+    <playingBeat>11000100</playingBeat>
+    <x>756</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>686</count>
+    <elapsedTimef>22.854166031</elapsedTimef>
+    <playingBeat>11000111</playingBeat>
+    <x>737</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>687</count>
+    <elapsedTimef>22.887678146</elapsedTimef>
+    <playingBeat>11000111</playingBeat>
+    <x>723</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>688</count>
+    <elapsedTimef>22.921531677</elapsedTimef>
+    <playingBeat>11000111</playingBeat>
+    <x>716</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>689</count>
+    <elapsedTimef>22.953731537</elapsedTimef>
+    <playingBeat>11000111</playingBeat>
+    <x>713</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>690</count>
+    <elapsedTimef>22.988174438</elapsedTimef>
+    <playingBeat>00101010</playingBeat>
+    <x>711</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>691</count>
+    <elapsedTimef>23.021142960</elapsedTimef>
+    <playingBeat>00101010</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>692</count>
+    <elapsedTimef>23.054527283</elapsedTimef>
+    <playingBeat>00101010</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>693</count>
+    <elapsedTimef>23.087781906</elapsedTimef>
+    <playingBeat>00101010</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>694</count>
+    <elapsedTimef>23.120763779</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>695</count>
+    <elapsedTimef>23.153621674</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>696</count>
+    <elapsedTimef>23.187646866</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>697</count>
+    <elapsedTimef>23.221172333</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>698</count>
+    <elapsedTimef>23.254646301</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>699</count>
+    <elapsedTimef>23.287687302</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>700</count>
+    <elapsedTimef>23.321224213</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>701</count>
+    <elapsedTimef>23.353984833</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>702</count>
+    <elapsedTimef>23.387725830</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>703</count>
+    <elapsedTimef>23.420635223</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>704</count>
+    <elapsedTimef>23.453687668</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>705</count>
+    <elapsedTimef>23.487659454</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>706</count>
+    <elapsedTimef>23.521039963</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>707</count>
+    <elapsedTimef>23.554407120</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>708</count>
+    <elapsedTimef>23.587814331</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>709</count>
+    <elapsedTimef>23.621318817</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>710</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>710</count>
+    <elapsedTimef>23.653549194</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>712</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>711</count>
+    <elapsedTimef>23.687479019</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>728</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>712</count>
+    <elapsedTimef>23.722379684</elapsedTimef>
+    <playingBeat>01101110</playingBeat>
+    <x>753</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>713</count>
+    <elapsedTimef>23.753726959</elapsedTimef>
+    <playingBeat>00000111</playingBeat>
+    <x>792</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>714</count>
+    <elapsedTimef>23.788066864</elapsedTimef>
+    <playingBeat>00000111</playingBeat>
+    <x>829</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>715</count>
+    <elapsedTimef>23.821071625</elapsedTimef>
+    <playingBeat>00000111</playingBeat>
+    <x>855</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>716</count>
+    <elapsedTimef>23.854450226</elapsedTimef>
+    <playingBeat>00000111</playingBeat>
+    <x>870</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>717</count>
+    <elapsedTimef>23.888017654</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>881</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>718</count>
+    <elapsedTimef>23.920942307</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>892</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>719</count>
+    <elapsedTimef>23.953525543</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>904</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>720</count>
+    <elapsedTimef>23.987888336</elapsedTimef>
+    <playingBeat>00011010</playingBeat>
+    <x>915</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>721</count>
+    <elapsedTimef>24.021137238</elapsedTimef>
+    <playingBeat>01100010</playingBeat>
+    <x>925</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>722</count>
+    <elapsedTimef>24.054225922</elapsedTimef>
+    <playingBeat>01100010</playingBeat>
+    <x>934</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>723</count>
+    <elapsedTimef>24.088251114</elapsedTimef>
+    <playingBeat>01100010</playingBeat>
+    <x>943</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>724</count>
+    <elapsedTimef>24.121463776</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>948</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>725</count>
+    <elapsedTimef>24.153537750</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>950</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>726</count>
+    <elapsedTimef>24.187095642</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>952</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>727</count>
+    <elapsedTimef>24.221139908</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>956</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>728</count>
+    <elapsedTimef>24.254531860</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>961</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>729</count>
+    <elapsedTimef>24.288457870</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>965</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>730</count>
+    <elapsedTimef>24.321521759</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>969</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>731</count>
+    <elapsedTimef>24.354274750</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>972</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>732</count>
+    <elapsedTimef>24.388000488</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>975</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>733</count>
+    <elapsedTimef>24.421134949</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>976</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>734</count>
+    <elapsedTimef>24.454530716</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>977</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>735</count>
+    <elapsedTimef>24.487304688</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>978</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>736</count>
+    <elapsedTimef>24.521308899</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>982</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>737</count>
+    <elapsedTimef>24.553533554</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>738</count>
+    <elapsedTimef>24.587926865</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>739</count>
+    <elapsedTimef>24.621206284</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>740</count>
+    <elapsedTimef>24.654369354</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>741</count>
+    <elapsedTimef>24.687887192</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>742</count>
+    <elapsedTimef>24.722051620</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>743</count>
+    <elapsedTimef>24.754405975</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>744</count>
+    <elapsedTimef>24.787834167</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>745</count>
+    <elapsedTimef>24.821315765</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>746</count>
+    <elapsedTimef>24.854278564</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>747</count>
+    <elapsedTimef>24.887611389</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>748</count>
+    <elapsedTimef>24.921115875</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>749</count>
+    <elapsedTimef>24.953668594</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>983</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>750</count>
+    <elapsedTimef>24.988189697</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>986</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>751</count>
+    <elapsedTimef>25.021465302</elapsedTimef>
+    <playingBeat>01000011</playingBeat>
+    <x>989</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>752</count>
+    <elapsedTimef>25.054315567</elapsedTimef>
+    <playingBeat>01000011</playingBeat>
+    <x>990</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>753</count>
+    <elapsedTimef>25.087364197</elapsedTimef>
+    <playingBeat>01000011</playingBeat>
+    <x>993</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>754</count>
+    <elapsedTimef>25.121009827</elapsedTimef>
+    <playingBeat>01000011</playingBeat>
+    <x>1004</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>755</count>
+    <elapsedTimef>25.153465271</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1018</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>756</count>
+    <elapsedTimef>25.188076019</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1034</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>757</count>
+    <elapsedTimef>25.221246719</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1053</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>758</count>
+    <elapsedTimef>25.254287720</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1068</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>759</count>
+    <elapsedTimef>25.288101196</elapsedTimef>
+    <playingBeat>01110010</playingBeat>
+    <x>1073</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>760</count>
+    <elapsedTimef>25.321256638</elapsedTimef>
+    <playingBeat>01110010</playingBeat>
+    <x>1078</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>761</count>
+    <elapsedTimef>25.354209900</elapsedTimef>
+    <playingBeat>01110010</playingBeat>
+    <x>1083</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>762</count>
+    <elapsedTimef>25.388238907</elapsedTimef>
+    <playingBeat>01110010</playingBeat>
+    <x>1085</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>763</count>
+    <elapsedTimef>25.421089172</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1088</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>764</count>
+    <elapsedTimef>25.454282761</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1093</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>765</count>
+    <elapsedTimef>25.487348557</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1097</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>766</count>
+    <elapsedTimef>25.521402359</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1098</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>767</count>
+    <elapsedTimef>25.554571152</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>1098</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>768</count>
+    <elapsedTimef>25.587985992</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>1098</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>769</count>
+    <elapsedTimef>25.621326447</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>1096</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>770</count>
+    <elapsedTimef>25.654394150</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>1088</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>771</count>
+    <elapsedTimef>25.687393188</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>1079</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>772</count>
+    <elapsedTimef>25.722387314</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>1068</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>773</count>
+    <elapsedTimef>25.753675461</elapsedTimef>
+    <playingBeat>01011100</playingBeat>
+    <x>1056</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>774</count>
+    <elapsedTimef>25.788053513</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1047</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>775</count>
+    <elapsedTimef>25.821249008</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1034</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>776</count>
+    <elapsedTimef>25.854471207</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1026</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>777</count>
+    <elapsedTimef>25.887571335</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1023</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>778</count>
+    <elapsedTimef>25.920799255</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1020</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>779</count>
+    <elapsedTimef>25.953531265</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1013</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>780</count>
+    <elapsedTimef>25.987016678</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1011</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>781</count>
+    <elapsedTimef>26.021259308</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1008</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>782</count>
+    <elapsedTimef>26.054546356</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1004</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>783</count>
+    <elapsedTimef>26.087661743</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1000</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>784</count>
+    <elapsedTimef>26.121433258</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1000</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>785</count>
+    <elapsedTimef>26.154586792</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1000</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>786</count>
+    <elapsedTimef>26.187957764</elapsedTimef>
+    <playingBeat>00110010</playingBeat>
+    <x>1000</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>787</count>
+    <elapsedTimef>26.221363068</elapsedTimef>
+    <playingBeat>00110010</playingBeat>
+    <x>999</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>788</count>
+    <elapsedTimef>26.254011154</elapsedTimef>
+    <playingBeat>00110010</playingBeat>
+    <x>1002</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>789</count>
+    <elapsedTimef>26.287696838</elapsedTimef>
+    <playingBeat>00110010</playingBeat>
+    <x>1010</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>790</count>
+    <elapsedTimef>26.321269989</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1027</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>791</count>
+    <elapsedTimef>26.353700638</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1040</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>792</count>
+    <elapsedTimef>26.387231827</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1052</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>793</count>
+    <elapsedTimef>26.421072006</elapsedTimef>
+    <playingBeat>01010011</playingBeat>
+    <x>1062</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>794</count>
+    <elapsedTimef>26.454509735</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>1072</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>795</count>
+    <elapsedTimef>26.487543106</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>1079</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>796</count>
+    <elapsedTimef>26.521333694</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>1086</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>797</count>
+    <elapsedTimef>26.553504944</elapsedTimef>
+    <playingBeat>00100101</playingBeat>
+    <x>1088</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>798</count>
+    <elapsedTimef>26.588169098</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1089</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>799</count>
+    <elapsedTimef>26.621299744</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1089</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>800</count>
+    <elapsedTimef>26.653697968</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1090</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>801</count>
+    <elapsedTimef>26.687974930</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>1090</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>802</count>
+    <elapsedTimef>26.722448349</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>1091</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>803</count>
+    <elapsedTimef>26.753828049</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>1092</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>804</count>
+    <elapsedTimef>26.787755966</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>1092</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>805</count>
+    <elapsedTimef>26.821237564</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1092</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>806</count>
+    <elapsedTimef>26.854467392</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1092</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>807</count>
+    <elapsedTimef>26.888370514</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1091</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>808</count>
+    <elapsedTimef>26.921382904</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1090</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>809</count>
+    <elapsedTimef>26.953680038</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1086</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>810</count>
+    <elapsedTimef>26.988086700</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1078</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>811</count>
+    <elapsedTimef>27.021255493</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1067</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>812</count>
+    <elapsedTimef>27.054536819</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1056</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>813</count>
+    <elapsedTimef>27.087526321</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1046</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>814</count>
+    <elapsedTimef>27.121089935</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1038</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>815</count>
+    <elapsedTimef>27.153711319</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1028</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>816</count>
+    <elapsedTimef>27.187913895</elapsedTimef>
+    <playingBeat>00110000</playingBeat>
+    <x>1019</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>817</count>
+    <elapsedTimef>27.221300125</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1009</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>818</count>
+    <elapsedTimef>27.254285812</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1003</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>819</count>
+    <elapsedTimef>27.288059235</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1003</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>820</count>
+    <elapsedTimef>27.321290970</elapsedTimef>
+    <playingBeat>00110110</playingBeat>
+    <x>1002</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>821</count>
+    <elapsedTimef>27.354188919</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1002</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>822</count>
+    <elapsedTimef>27.387813568</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1002</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>823</count>
+    <elapsedTimef>27.421304703</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1002</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>824</count>
+    <elapsedTimef>27.454492569</elapsedTimef>
+    <playingBeat>01001101</playingBeat>
+    <x>1003</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>825</count>
+    <elapsedTimef>27.488004684</elapsedTimef>
+    <playingBeat>01001101</playingBeat>
+    <x>1011</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>826</count>
+    <elapsedTimef>27.521316528</elapsedTimef>
+    <playingBeat>01001101</playingBeat>
+    <x>1029</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>827</count>
+    <elapsedTimef>27.555038452</elapsedTimef>
+    <playingBeat>01001101</playingBeat>
+    <x>1046</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>828</count>
+    <elapsedTimef>27.588285446</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1061</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>829</count>
+    <elapsedTimef>27.621318817</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1069</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>830</count>
+    <elapsedTimef>27.653966904</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1074</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>831</count>
+    <elapsedTimef>27.688385010</elapsedTimef>
+    <playingBeat>00011101</playingBeat>
+    <x>1079</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>832</count>
+    <elapsedTimef>27.722742081</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>833</count>
+    <elapsedTimef>27.754724503</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>834</count>
+    <elapsedTimef>27.787717819</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>835</count>
+    <elapsedTimef>27.820905685</elapsedTimef>
+    <playingBeat>01100100</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>836</count>
+    <elapsedTimef>27.854463577</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>837</count>
+    <elapsedTimef>27.887939453</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>838</count>
+    <elapsedTimef>27.920139313</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>839</count>
+    <elapsedTimef>27.954349518</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1081</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>840</count>
+    <elapsedTimef>27.987146378</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1080</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>841</count>
+    <elapsedTimef>28.021312714</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1072</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>842</count>
+    <elapsedTimef>28.054592133</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1060</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>843</count>
+    <elapsedTimef>28.088138580</elapsedTimef>
+    <playingBeat>00000010</playingBeat>
+    <x>1049</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>844</count>
+    <elapsedTimef>28.121368408</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1036</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>845</count>
+    <elapsedTimef>28.154769897</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1024</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>846</count>
+    <elapsedTimef>28.188184738</elapsedTimef>
+    <playingBeat>01000111</playingBeat>
+    <x>1018</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>847</count>
+    <elapsedTimef>28.221416473</elapsedTimef>
+    <playingBeat>01100101</playingBeat>
+    <x>1015</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>848</count>
+    <elapsedTimef>28.254377365</elapsedTimef>
+    <playingBeat>01100101</playingBeat>
+    <x>1009</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>849</count>
+    <elapsedTimef>28.287736893</elapsedTimef>
+    <playingBeat>01100101</playingBeat>
+    <x>1004</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>850</count>
+    <elapsedTimef>28.321281433</elapsedTimef>
+    <playingBeat>01100101</playingBeat>
+    <x>1001</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>851</count>
+    <elapsedTimef>28.353889465</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>1000</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>852</count>
+    <elapsedTimef>28.388027191</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>999</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>853</count>
+    <elapsedTimef>28.421287537</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>999</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>854</count>
+    <elapsedTimef>28.453857422</elapsedTimef>
+    <playingBeat>01001100</playingBeat>
+    <x>998</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>855</count>
+    <elapsedTimef>28.487527847</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>997</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>856</count>
+    <elapsedTimef>28.521377563</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>994</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>857</count>
+    <elapsedTimef>28.553581238</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>988</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>858</count>
+    <elapsedTimef>28.588203430</elapsedTimef>
+    <playingBeat>00000110</playingBeat>
+    <x>982</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>859</count>
+    <elapsedTimef>28.621299744</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>978</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>860</count>
+    <elapsedTimef>28.654382706</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>972</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>861</count>
+    <elapsedTimef>28.688840866</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>961</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>862</count>
+    <elapsedTimef>28.722772598</elapsedTimef>
+    <playingBeat>01010111</playingBeat>
+    <x>940</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>863</count>
+    <elapsedTimef>28.755147934</elapsedTimef>
+    <playingBeat>00001100</playingBeat>
+    <x>920</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>864</count>
+    <elapsedTimef>28.787853241</elapsedTimef>
+    <playingBeat>00001100</playingBeat>
+    <x>903</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>865</count>
+    <elapsedTimef>28.821187973</elapsedTimef>
+    <playingBeat>00001100</playingBeat>
+    <x>890</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>866</count>
+    <elapsedTimef>28.854606628</elapsedTimef>
+    <playingBeat>00001100</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>867</count>
+    <elapsedTimef>28.888135910</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>868</count>
+    <elapsedTimef>28.921688080</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>869</count>
+    <elapsedTimef>28.954118729</elapsedTimef>
+    <playingBeat>00100110</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>870</count>
+    <elapsedTimef>28.987792969</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>871</count>
+    <elapsedTimef>29.020961761</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>872</count>
+    <elapsedTimef>29.054340363</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>873</count>
+    <elapsedTimef>29.087871552</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>874</count>
+    <elapsedTimef>29.121360779</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>875</count>
+    <elapsedTimef>29.154411316</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>876</count>
+    <elapsedTimef>29.188138962</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>877</count>
+    <elapsedTimef>29.220880508</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>878</count>
+    <elapsedTimef>29.254470825</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>879</count>
+    <elapsedTimef>29.288305283</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>880</count>
+    <elapsedTimef>29.321191788</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>882</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>881</count>
+    <elapsedTimef>29.353828430</elapsedTimef>
+    <playingBeat>10010101</playingBeat>
+    <x>886</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>882</count>
+    <elapsedTimef>29.388149261</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>898</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>883</count>
+    <elapsedTimef>29.421392441</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>915</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>884</count>
+    <elapsedTimef>29.454444885</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>927</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>885</count>
+    <elapsedTimef>29.488409042</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>936</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>886</count>
+    <elapsedTimef>29.521518707</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>939</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>887</count>
+    <elapsedTimef>29.554014206</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>940</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>888</count>
+    <elapsedTimef>29.587884903</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>940</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>889</count>
+    <elapsedTimef>29.621309280</elapsedTimef>
+    <playingBeat>01011110</playingBeat>
+    <x>940</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>890</count>
+    <elapsedTimef>29.654233932</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>940</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>891</count>
+    <elapsedTimef>29.688085556</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>938</x>
+    <y>451</y>
+</pt>
+<pt>
+    <count>892</count>
+    <elapsedTimef>29.722835541</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>923</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>893</count>
+    <elapsedTimef>29.755022049</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>893</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>894</count>
+    <elapsedTimef>29.787977219</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>858</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>895</count>
+    <elapsedTimef>29.821372986</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>836</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>896</count>
+    <elapsedTimef>29.854558945</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>827</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>897</count>
+    <elapsedTimef>29.888158798</elapsedTimef>
+    <playingBeat>01001000</playingBeat>
+    <x>825</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>898</count>
+    <elapsedTimef>29.921100616</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>825</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>899</count>
+    <elapsedTimef>29.954956055</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>825</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>900</count>
+    <elapsedTimef>29.988166809</elapsedTimef>
+    <playingBeat>00010111</playingBeat>
+    <x>819</x>
+    <y>452</y>
+</pt>
+<pt>
+    <count>901</count>
+    <elapsedTimef>30.021005630</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>803</x>
+    <y>450</y>
+</pt>
+<pt>
+    <count>902</count>
+    <elapsedTimef>30.054147720</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>781</x>
+    <y>448</y>
+</pt>
+<pt>
+    <count>903</count>
+    <elapsedTimef>30.088289261</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>752</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>904</count>
+    <elapsedTimef>30.121452332</elapsedTimef>
+    <playingBeat>00110111</playingBeat>
+    <x>728</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>905</count>
+    <elapsedTimef>30.154308319</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>714</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>906</count>
+    <elapsedTimef>30.188131332</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>709</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>907</count>
+    <elapsedTimef>30.221176147</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>709</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>908</count>
+    <elapsedTimef>30.254331589</elapsedTimef>
+    <playingBeat>11110101</playingBeat>
+    <x>709</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>909</count>
+    <elapsedTimef>30.286748886</elapsedTimef>
+    <playingBeat>01011111</playingBeat>
+    <x>708</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>910</count>
+    <elapsedTimef>30.320535660</elapsedTimef>
+    <playingBeat>01011111</playingBeat>
+    <x>703</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>911</count>
+    <elapsedTimef>30.354085922</elapsedTimef>
+    <playingBeat>01011111</playingBeat>
+    <x>698</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>912</count>
+    <elapsedTimef>30.386905670</elapsedTimef>
+    <playingBeat>01011111</playingBeat>
+    <x>697</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>913</count>
+    <elapsedTimef>30.421417236</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>696</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>914</count>
+    <elapsedTimef>30.454311371</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>695</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>915</count>
+    <elapsedTimef>30.488330841</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>693</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>916</count>
+    <elapsedTimef>30.521083832</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>688</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>917</count>
+    <elapsedTimef>30.553859711</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>675</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>918</count>
+    <elapsedTimef>30.587223053</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>663</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>919</count>
+    <elapsedTimef>30.621318817</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>649</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>920</count>
+    <elapsedTimef>30.654384613</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>639</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>921</count>
+    <elapsedTimef>30.687915802</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>637</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>922</count>
+    <elapsedTimef>30.722541809</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>637</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>923</count>
+    <elapsedTimef>30.754375458</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>637</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>924</count>
+    <elapsedTimef>30.787742615</elapsedTimef>
+    <playingBeat>10011100</playingBeat>
+    <x>637</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>925</count>
+    <elapsedTimef>30.820533752</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>636</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>926</count>
+    <elapsedTimef>30.854442596</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>641</x>
+    <y>446</y>
+</pt>
+<pt>
+    <count>927</count>
+    <elapsedTimef>30.888042450</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>655</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>928</count>
+    <elapsedTimef>30.920341492</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>673</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>929</count>
+    <elapsedTimef>30.955017090</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>700</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>930</count>
+    <elapsedTimef>30.987915039</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>726</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>931</count>
+    <elapsedTimef>31.021270752</elapsedTimef>
+    <playingBeat>01001111</playingBeat>
+    <x>750</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>932</count>
+    <elapsedTimef>31.054363251</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>770</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>933</count>
+    <elapsedTimef>31.088333130</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>793</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>934</count>
+    <elapsedTimef>31.120960236</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>822</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>935</count>
+    <elapsedTimef>31.155059814</elapsedTimef>
+    <playingBeat>11010010</playingBeat>
+    <x>873</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>936</count>
+    <elapsedTimef>31.186908722</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>936</x>
+    <y>443</y>
+</pt>
+<pt>
+    <count>937</count>
+    <elapsedTimef>31.220607758</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>1012</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>938</count>
+    <elapsedTimef>31.254222870</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>1089</x>
+    <y>438</y>
+</pt>
+<pt>
+    <count>939</count>
+    <elapsedTimef>31.287143707</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>1139</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>940</count>
+    <elapsedTimef>31.321350098</elapsedTimef>
+    <playingBeat>01110001</playingBeat>
+    <x>1171</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>941</count>
+    <elapsedTimef>31.354732513</elapsedTimef>
+    <playingBeat>01110001</playingBeat>
+    <x>1183</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>942</count>
+    <elapsedTimef>31.388298035</elapsedTimef>
+    <playingBeat>01110001</playingBeat>
+    <x>1189</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>943</count>
+    <elapsedTimef>31.421340942</elapsedTimef>
+    <playingBeat>01110001</playingBeat>
+    <x>1192</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>944</count>
+    <elapsedTimef>31.453662872</elapsedTimef>
+    <playingBeat>01000110</playingBeat>
+    <x>1192</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>945</count>
+    <elapsedTimef>31.487663269</elapsedTimef>
+    <playingBeat>01000110</playingBeat>
+    <x>1193</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>946</count>
+    <elapsedTimef>31.521076202</elapsedTimef>
+    <playingBeat>01000110</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>947</count>
+    <elapsedTimef>31.553730011</elapsedTimef>
+    <playingBeat>01000110</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>948</count>
+    <elapsedTimef>31.587902069</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>949</count>
+    <elapsedTimef>31.621265411</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>950</count>
+    <elapsedTimef>31.654151917</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>951</count>
+    <elapsedTimef>31.687858582</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>952</count>
+    <elapsedTimef>31.722763062</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>953</count>
+    <elapsedTimef>31.754673004</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>954</count>
+    <elapsedTimef>31.788047791</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1194</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>955</count>
+    <elapsedTimef>31.821205139</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1195</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>956</count>
+    <elapsedTimef>31.854476929</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1204</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>957</count>
+    <elapsedTimef>31.888042450</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1211</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>958</count>
+    <elapsedTimef>31.921306610</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1221</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>959</count>
+    <elapsedTimef>31.955047607</elapsedTimef>
+    <playingBeat>01110100</playingBeat>
+    <x>1230</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>960</count>
+    <elapsedTimef>31.987861633</elapsedTimef>
+    <playingBeat>01110100</playingBeat>
+    <x>1235</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>961</count>
+    <elapsedTimef>32.021354675</elapsedTimef>
+    <playingBeat>01110100</playingBeat>
+    <x>1240</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>962</count>
+    <elapsedTimef>32.054248810</elapsedTimef>
+    <playingBeat>01110100</playingBeat>
+    <x>1244</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>963</count>
+    <elapsedTimef>32.088214874</elapsedTimef>
+    <playingBeat>00000100</playingBeat>
+    <x>1245</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>964</count>
+    <elapsedTimef>32.121379852</elapsedTimef>
+    <playingBeat>00000100</playingBeat>
+    <x>1245</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>965</count>
+    <elapsedTimef>32.154228210</elapsedTimef>
+    <playingBeat>00000100</playingBeat>
+    <x>1245</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>966</count>
+    <elapsedTimef>32.187992096</elapsedTimef>
+    <playingBeat>00000100</playingBeat>
+    <x>1245</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>967</count>
+    <elapsedTimef>32.221332550</elapsedTimef>
+    <playingBeat>00010010</playingBeat>
+    <x>1240</x>
+    <y>438</y>
+</pt>
+<pt>
+    <count>968</count>
+    <elapsedTimef>32.254245758</elapsedTimef>
+    <playingBeat>00010010</playingBeat>
+    <x>1223</x>
+    <y>439</y>
+</pt>
+<pt>
+    <count>969</count>
+    <elapsedTimef>32.288112640</elapsedTimef>
+    <playingBeat>00010010</playingBeat>
+    <x>1190</x>
+    <y>439</y>
+</pt>
+<pt>
+    <count>970</count>
+    <elapsedTimef>32.321495056</elapsedTimef>
+    <playingBeat>00010010</playingBeat>
+    <x>1167</x>
+    <y>439</y>
+</pt>
+<pt>
+    <count>971</count>
+    <elapsedTimef>32.354404449</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1154</x>
+    <y>439</y>
+</pt>
+<pt>
+    <count>972</count>
+    <elapsedTimef>32.387222290</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1132</x>
+    <y>438</y>
+</pt>
+<pt>
+    <count>973</count>
+    <elapsedTimef>32.421340942</elapsedTimef>
+    <playingBeat>01000000</playingBeat>
+    <x>1102</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>974</count>
+    <elapsedTimef>32.454391479</elapsedTimef>
+    <playingBeat>00100100</playingBeat>
+    <x>1076</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>975</count>
+    <elapsedTimef>32.488525391</elapsedTimef>
+    <playingBeat>00100100</playingBeat>
+    <x>1037</x>
+    <y>437</y>
+</pt>
+<pt>
+    <count>976</count>
+    <elapsedTimef>32.520999908</elapsedTimef>
+    <playingBeat>00100100</playingBeat>
+    <x>1004</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>977</count>
+    <elapsedTimef>32.555110931</elapsedTimef>
+    <playingBeat>00100100</playingBeat>
+    <x>942</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>978</count>
+    <elapsedTimef>32.587356567</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>896</x>
+    <y>436</y>
+</pt>
+<pt>
+    <count>979</count>
+    <elapsedTimef>32.621459961</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>852</x>
+    <y>438</y>
+</pt>
+<pt>
+    <count>980</count>
+    <elapsedTimef>32.654373169</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>805</x>
+    <y>440</y>
+</pt>
+<pt>
+    <count>981</count>
+    <elapsedTimef>32.688411713</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>744</x>
+    <y>441</y>
+</pt>
+<pt>
+    <count>982</count>
+    <elapsedTimef>32.723060608</elapsedTimef>
+    <playingBeat>00111110</playingBeat>
+    <x>701</x>
+    <y>442</y>
+</pt>
+<pt>
+    <count>983</count>
+    <elapsedTimef>32.755168915</elapsedTimef>
+    <playingBeat>00111110</playingBeat>
+    <x>673</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>984</count>
+    <elapsedTimef>32.787952423</elapsedTimef>
+    <playingBeat>00111110</playingBeat>
+    <x>645</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>985</count>
+    <elapsedTimef>32.821319580</elapsedTimef>
+    <playingBeat>00111110</playingBeat>
+    <x>624</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>986</count>
+    <elapsedTimef>32.854179382</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>615</x>
+    <y>444</y>
+</pt>
+<pt>
+    <count>987</count>
+    <elapsedTimef>32.888618469</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>601</x>
+    <y>445</y>
+</pt>
+<pt>
+    <count>988</count>
+    <elapsedTimef>32.921585083</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>584</x>
+    <y>447</y>
+</pt>
+<pt>
+    <count>989</count>
+    <elapsedTimef>32.954898834</elapsedTimef>
+    <playingBeat>11011100</playingBeat>
+    <x>573</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>990</count>
+    <elapsedTimef>32.988079071</elapsedTimef>
+    <playingBeat>10000010</playingBeat>
+    <x>566</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>991</count>
+    <elapsedTimef>33.021385193</elapsedTimef>
+    <playingBeat>10000010</playingBeat>
+    <x>563</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>992</count>
+    <elapsedTimef>33.054412842</elapsedTimef>
+    <playingBeat>10000010</playingBeat>
+    <x>563</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>993</count>
+    <elapsedTimef>33.087806702</elapsedTimef>
+    <playingBeat>10000010</playingBeat>
+    <x>563</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>994</count>
+    <elapsedTimef>33.121170044</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>563</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>995</count>
+    <elapsedTimef>33.154685974</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>563</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>996</count>
+    <elapsedTimef>33.188144684</elapsedTimef>
+    <playingBeat>01101011</playingBeat>
+    <x>562</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>997</count>
+    <elapsedTimef>33.221435547</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>998</count>
+    <elapsedTimef>33.254562378</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>999</count>
+    <elapsedTimef>33.287960052</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1000</count>
+    <elapsedTimef>33.321464539</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1001</count>
+    <elapsedTimef>33.354301453</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1002</count>
+    <elapsedTimef>33.388072968</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1003</count>
+    <elapsedTimef>33.421615601</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1004</count>
+    <elapsedTimef>33.454048157</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1005</count>
+    <elapsedTimef>33.487609863</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>561</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1006</count>
+    <elapsedTimef>33.520309448</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>550</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1007</count>
+    <elapsedTimef>33.554935455</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>534</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1008</count>
+    <elapsedTimef>33.587368011</elapsedTimef>
+    <playingBeat>10100100</playingBeat>
+    <x>513</x>
+    <y>449</y>
+</pt>
+<pt>
+    <count>1009</count>
+    <elapsedTimef>33.621212006</elapsedTimef>
+    <playingBeat>00111111</playingBeat>
+    <x>500</x>
+    <y>453</y>
+</pt>
+<pt>
+    <count>1010</count>
+    <elapsedTimef>33.654308319</elapsedTimef>
+    <playingBeat>00111111</playingBeat>
+    <x>495</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1011</count>
+    <elapsedTimef>33.688140869</elapsedTimef>
+    <playingBeat>00111111</playingBeat>
+    <x>494</x>
+    <y>457</y>
+</pt>
+<pt>
+    <count>1012</count>
+    <elapsedTimef>33.722602844</elapsedTimef>
+    <playingBeat>00111111</playingBeat>
+    <x>493</x>
+    <y>457</y>
+</pt>
+<pt>
+    <count>1013</count>
+    <elapsedTimef>33.755043030</elapsedTimef>
+    <playingBeat>00001011</playingBeat>
+    <x>491</x>
+    <y>457</y>
+</pt>
+<pt>
+    <count>1014</count>
+    <elapsedTimef>33.787132263</elapsedTimef>
+    <playingBeat>00001011</playingBeat>
+    <x>488</x>
+    <y>458</y>
+</pt>
+<pt>
+    <count>1015</count>
+    <elapsedTimef>33.821369171</elapsedTimef>
+    <playingBeat>00001011</playingBeat>
+    <x>475</x>
+    <y>457</y>
+</pt>
+<pt>
+    <count>1016</count>
+    <elapsedTimef>33.854888916</elapsedTimef>
+    <playingBeat>00001011</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1017</count>
+    <elapsedTimef>33.887714386</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1018</count>
+    <elapsedTimef>33.920417786</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1019</count>
+    <elapsedTimef>33.953586578</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1020</count>
+    <elapsedTimef>33.987052917</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1021</count>
+    <elapsedTimef>34.022941589</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1022</count>
+    <elapsedTimef>34.054283142</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1023</count>
+    <elapsedTimef>34.088039398</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1024</count>
+    <elapsedTimef>34.120155334</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1025</count>
+    <elapsedTimef>34.154376984</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1026</count>
+    <elapsedTimef>34.187717438</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>471</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1027</count>
+    <elapsedTimef>34.221385956</elapsedTimef>
+    <playingBeat>10111001</playingBeat>
+    <x>472</x>
+    <y>455</y>
+</pt>
+<pt>
+    <count>1028</count>
+    <elapsedTimef>34.254360199</elapsedTimef>
+    <playingBeat>10100001</playingBeat>
+    <x>473</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>1029</count>
+    <elapsedTimef>34.288105011</elapsedTimef>
+    <playingBeat>10100001</playingBeat>
+    <x>480</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>1030</count>
+    <elapsedTimef>34.321594238</elapsedTimef>
+    <playingBeat>10100001</playingBeat>
+    <x>497</x>
+    <y>454</y>
+</pt>
+<pt>
+    <count>1031</count>
+    <elapsedTimef>34.354988098</elapsedTimef>
+    <playingBeat>10100001</playingBeat>
+    <x>517</x>
+    <y>456</y>
+</pt>
+<pt>
+    <count>1032</count>
+    <elapsedTimef>34.388187408</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>540</x>
+    <y>457</y>
+</pt>
+<pt>
+    <count>1033</count>
+    <elapsedTimef>34.421405792</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>569</x>
+    <y>459</y>
+</pt>
+<pt>
+    <count>1034</count>
+    <elapsedTimef>34.454128265</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>601</x>
+    <y>459</y>
+</pt>
+<pt>
+    <count>1035</count>
+    <elapsedTimef>34.488342285</elapsedTimef>
+    <playingBeat>00011011</playingBeat>
+    <x>624</x>
+    <y>459</y>
+</pt>
+<pt>
+    <count>1036</count>
+    <elapsedTimef>34.521469116</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>635</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1037</count>
+    <elapsedTimef>34.555034637</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>646</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1038</count>
+    <elapsedTimef>34.588150024</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>652</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1039</count>
+    <elapsedTimef>34.621223450</elapsedTimef>
+    <playingBeat>00101111</playingBeat>
+    <x>656</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1040</count>
+    <elapsedTimef>34.654174805</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>661</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1041</count>
+    <elapsedTimef>34.688220978</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>664</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1042</count>
+    <elapsedTimef>34.723136902</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>664</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1043</count>
+    <elapsedTimef>34.755016327</elapsedTimef>
+    <playingBeat>01100011</playingBeat>
+    <x>664</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1044</count>
+    <elapsedTimef>34.788059235</elapsedTimef>
+    <playingBeat>00100001</playingBeat>
+    <x>662</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1045</count>
+    <elapsedTimef>34.821338654</elapsedTimef>
+    <playingBeat>00100001</playingBeat>
+    <x>656</x>
+    <y>462</y>
+</pt>
+<pt>
+    <count>1046</count>
+    <elapsedTimef>34.854434967</elapsedTimef>
+    <playingBeat>00100001</playingBeat>
+    <x>640</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1047</count>
+    <elapsedTimef>34.888134003</elapsedTimef>
+    <playingBeat>00100001</playingBeat>
+    <x>613</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1048</count>
+    <elapsedTimef>34.921493530</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>577</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1049</count>
+    <elapsedTimef>34.953491211</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>553</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1050</count>
+    <elapsedTimef>34.986694336</elapsedTimef>
+    <playingBeat>10100101</playingBeat>
+    <x>521</x>
+    <y>462</y>
+</pt>
+<pt>
+    <count>1051</count>
+    <elapsedTimef>35.022338867</elapsedTimef>
+    <playingBeat>11011001</playingBeat>
+    <x>488</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1052</count>
+    <elapsedTimef>35.054508209</elapsedTimef>
+    <playingBeat>11011001</playingBeat>
+    <x>465</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1053</count>
+    <elapsedTimef>35.088317871</elapsedTimef>
+    <playingBeat>11011001</playingBeat>
+    <x>452</x>
+    <y>462</y>
+</pt>
+<pt>
+    <count>1054</count>
+    <elapsedTimef>35.121494293</elapsedTimef>
+    <playingBeat>11011001</playingBeat>
+    <x>443</x>
+    <y>464</y>
+</pt>
+<pt>
+    <count>1055</count>
+    <elapsedTimef>35.154190063</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>434</x>
+    <y>465</y>
+</pt>
+<pt>
+    <count>1056</count>
+    <elapsedTimef>35.186847687</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>426</x>
+    <y>466</y>
+</pt>
+<pt>
+    <count>1057</count>
+    <elapsedTimef>35.219898224</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>410</x>
+    <y>466</y>
+</pt>
+<pt>
+    <count>1058</count>
+    <elapsedTimef>35.253494263</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>382</x>
+    <y>466</y>
+</pt>
+<pt>
+    <count>1059</count>
+    <elapsedTimef>35.287387848</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>349</x>
+    <y>467</y>
+</pt>
+<pt>
+    <count>1060</count>
+    <elapsedTimef>35.320396423</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>316</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1061</count>
+    <elapsedTimef>35.353569031</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>295</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1062</count>
+    <elapsedTimef>35.386978149</elapsedTimef>
+    <playingBeat>10100010</playingBeat>
+    <x>278</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1063</count>
+    <elapsedTimef>35.420799255</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>261</x>
+    <y>470</y>
+</pt>
+<pt>
+    <count>1064</count>
+    <elapsedTimef>35.453670502</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>245</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1065</count>
+    <elapsedTimef>35.487110138</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>234</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1066</count>
+    <elapsedTimef>35.520351410</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>224</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1067</count>
+    <elapsedTimef>35.553775787</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>220</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1068</count>
+    <elapsedTimef>35.587360382</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>220</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1069</count>
+    <elapsedTimef>35.620571136</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>220</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1070</count>
+    <elapsedTimef>35.653324127</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>220</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1071</count>
+    <elapsedTimef>35.687000275</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>220</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1072</count>
+    <elapsedTimef>35.722812653</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>223</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1073</count>
+    <elapsedTimef>35.753711700</elapsedTimef>
+    <playingBeat>10011011</playingBeat>
+    <x>229</x>
+    <y>470</y>
+</pt>
+<pt>
+    <count>1074</count>
+    <elapsedTimef>35.788246155</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>244</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1075</count>
+    <elapsedTimef>35.819805145</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>272</x>
+    <y>467</y>
+</pt>
+<pt>
+    <count>1076</count>
+    <elapsedTimef>35.853389740</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>301</x>
+    <y>467</y>
+</pt>
+<pt>
+    <count>1077</count>
+    <elapsedTimef>35.888332367</elapsedTimef>
+    <playingBeat>11101001</playingBeat>
+    <x>356</x>
+    <y>467</y>
+</pt>
+<pt>
+    <count>1078</count>
+    <elapsedTimef>35.920852661</elapsedTimef>
+    <playingBeat>00001001</playingBeat>
+    <x>417</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1079</count>
+    <elapsedTimef>35.954376221</elapsedTimef>
+    <playingBeat>00001001</playingBeat>
+    <x>461</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1080</count>
+    <elapsedTimef>35.988159180</elapsedTimef>
+    <playingBeat>00001001</playingBeat>
+    <x>498</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1081</count>
+    <elapsedTimef>36.020027161</elapsedTimef>
+    <playingBeat>00001001</playingBeat>
+    <x>541</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1082</count>
+    <elapsedTimef>36.054283142</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>587</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1083</count>
+    <elapsedTimef>36.088317871</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>632</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1084</count>
+    <elapsedTimef>36.120468140</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>667</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1085</count>
+    <elapsedTimef>36.153903961</elapsedTimef>
+    <playingBeat>11001101</playingBeat>
+    <x>702</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1086</count>
+    <elapsedTimef>36.188304901</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>736</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1087</count>
+    <elapsedTimef>36.220088959</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>771</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1088</count>
+    <elapsedTimef>36.254089355</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>804</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1089</count>
+    <elapsedTimef>36.288078308</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>835</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1090</count>
+    <elapsedTimef>36.320415497</elapsedTimef>
+    <playingBeat>01101101</playingBeat>
+    <x>867</x>
+    <y>467</y>
+</pt>
+<pt>
+    <count>1091</count>
+    <elapsedTimef>36.353713989</elapsedTimef>
+    <playingBeat>01101101</playingBeat>
+    <x>903</x>
+    <y>466</y>
+</pt>
+<pt>
+    <count>1092</count>
+    <elapsedTimef>36.388298035</elapsedTimef>
+    <playingBeat>01101101</playingBeat>
+    <x>920</x>
+    <y>465</y>
+</pt>
+<pt>
+    <count>1093</count>
+    <elapsedTimef>36.419937134</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>929</x>
+    <y>464</y>
+</pt>
+<pt>
+    <count>1094</count>
+    <elapsedTimef>36.453941345</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>936</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1095</count>
+    <elapsedTimef>36.487709045</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>939</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1096</count>
+    <elapsedTimef>36.520179749</elapsedTimef>
+    <playingBeat>01001010</playingBeat>
+    <x>940</x>
+    <y>463</y>
+</pt>
+<pt>
+    <count>1097</count>
+    <elapsedTimef>36.553874969</elapsedTimef>
+    <playingBeat>00100000</playingBeat>
+    <x>945</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1098</count>
+    <elapsedTimef>36.588153839</elapsedTimef>
+    <playingBeat>00100000</playingBeat>
+    <x>950</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1099</count>
+    <elapsedTimef>36.620151520</elapsedTimef>
+    <playingBeat>00100000</playingBeat>
+    <x>953</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1100</count>
+    <elapsedTimef>36.654064178</elapsedTimef>
+    <playingBeat>00100000</playingBeat>
+    <x>954</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1101</count>
+    <elapsedTimef>36.688316345</elapsedTimef>
+    <playingBeat>00011100</playingBeat>
+    <x>954</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1102</count>
+    <elapsedTimef>36.721588135</elapsedTimef>
+    <playingBeat>00011100</playingBeat>
+    <x>953</x>
+    <y>460</y>
+</pt>
+<pt>
+    <count>1103</count>
+    <elapsedTimef>36.754573822</elapsedTimef>
+    <playingBeat>00011100</playingBeat>
+    <x>946</x>
+    <y>461</y>
+</pt>
+<pt>
+    <count>1104</count>
+    <elapsedTimef>36.788124084</elapsedTimef>
+    <playingBeat>00011100</playingBeat>
+    <x>928</x>
+    <y>462</y>
+</pt>
+<pt>
+    <count>1105</count>
+    <elapsedTimef>36.820713043</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>902</x>
+    <y>465</y>
+</pt>
+<pt>
+    <count>1106</count>
+    <elapsedTimef>36.854061127</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>881</x>
+    <y>468</y>
+</pt>
+<pt>
+    <count>1107</count>
+    <elapsedTimef>36.887683868</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>864</x>
+    <y>469</y>
+</pt>
+<pt>
+    <count>1108</count>
+    <elapsedTimef>36.920402527</elapsedTimef>
+    <playingBeat>01101100</playingBeat>
+    <x>850</x>
+    <y>470</y>
+</pt>
+<pt>
+    <count>1109</count>
+    <elapsedTimef>36.953536987</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>843</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1110</count>
+    <elapsedTimef>36.987384796</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>834</x>
+    <y>471</y>
+</pt>
+<pt>
+    <count>1111</count>
+    <elapsedTimef>37.021286011</elapsedTimef>
+    <playingBeat>10010100</playingBeat>
+    <x>821</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1112</count>
+    <elapsedTimef>37.054531097</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>801</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1113</count>
+    <elapsedTimef>37.088111877</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>774</x>
+    <y>472</y>
+</pt>
+<pt>
+    <count>1114</count>
+    <elapsedTimef>37.121341705</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>757</x>
+    <y>473</y>
+</pt>
+<pt>
+    <count>1115</count>
+    <elapsedTimef>37.155124664</elapsedTimef>
+    <playingBeat>00110011</playingBeat>
+    <x>750</x>
+    <y>474</y>
+</pt>
+<pt>
+    <count>1116</count>
+    <elapsedTimef>37.188289642</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>745</x>
+    <y>474</y>
+</pt>
+<pt>
+    <count>1117</count>
+    <elapsedTimef>37.221454620</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>738</x>
+    <y>475</y>
+</pt>
+<pt>
+    <count>1118</count>
+    <elapsedTimef>37.254318237</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>727</x>
+    <y>475</y>
+</pt>
+<pt>
+    <count>1119</count>
+    <elapsedTimef>37.287303925</elapsedTimef>
+    <playingBeat>01011011</playingBeat>
+    <x>707</x>
+    <y>475</y>
+</pt>
+<pt>
+    <count>1120</count>
+    <elapsedTimef>37.321376801</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>691</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1121</count>
+    <elapsedTimef>37.355075836</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1122</count>
+    <elapsedTimef>37.387832642</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1123</count>
+    <elapsedTimef>37.421180725</elapsedTimef>
+    <playingBeat>10010110</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1124</count>
+    <elapsedTimef>37.454532623</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1125</count>
+    <elapsedTimef>37.488105774</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1126</count>
+    <elapsedTimef>37.521591187</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1127</count>
+    <elapsedTimef>37.554607391</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1128</count>
+    <elapsedTimef>37.588180542</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1129</count>
+    <elapsedTimef>37.621387482</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1130</count>
+    <elapsedTimef>37.654754639</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1131</count>
+    <elapsedTimef>37.688297272</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1132</count>
+    <elapsedTimef>37.722042084</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1133</count>
+    <elapsedTimef>37.754482269</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1134</count>
+    <elapsedTimef>37.787837982</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>
+<pt>
+    <count>1135</count>
+    <elapsedTimef>37.821472168</elapsedTimef>
+    <playingBeat>00001000</playingBeat>
+    <x>688</x>
+    <y>476</y>
+</pt>

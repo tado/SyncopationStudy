@@ -12,6 +12,7 @@ public:
     void mouseReleased(int x, int y, int button);
     
     bool selected;
+    ofVec2f lastPickedLoc;
     ofVec2f selectLoc;
     float rhythmDist;
     vector<int> pickedRhythm;

@@ -95,7 +95,7 @@ void RhythmPicker::mousePressed(int x, int y, int button){
         selected = false;
     }
     */
-}
+    }
 
 void RhythmPicker::mouseReleased(int x, int y, int button){
     //selected = false;

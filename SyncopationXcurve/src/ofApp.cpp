@@ -15,6 +15,31 @@ void ofApp::setup(){
     parseSyncoTMC = new ParseSyncopation("TMC.json");
     parseSyncoTOB = new ParseSyncopation("TOB.json");
     parseSyncoWNBD  = new ParseSyncopation("WNBD.json");
+    switch (gui->syncoMode) {
+        case 0:
+            parseSynco = parseSyncoKTH;
+            break;
+        case 1:
+            parseSynco = parseSyncoLHL;
+            break;
+        case 2:
+            parseSynco = parseSyncoPRS;
+            break;
+        case 3:
+            parseSynco = parseSyncoSG;
+            break;
+        case 4:
+            parseSynco = parseSyncoTMC;
+            break;
+        case 5:
+            parseSynco = parseSyncoTOB;
+            break;
+        case 6:
+            parseSynco = parseSyncoWNBD;
+            break;
+        default:
+            break;
+    }
 
     recorder = new Recorder();
     rhythmPicker = new RhythmPicker();

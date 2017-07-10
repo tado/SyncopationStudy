@@ -10,10 +10,17 @@
 #include "ofApp.h"
 
 DrawFitting::DrawFitting(){
+    ofApp *app = ((ofApp*)ofGetAppPtr());
     for (int i = 0; i < num; i++) {
         in[i] = 0.0;
         out[i] = 0.0;
     }
+    
+    for (int i = 0; i < app->parseSynco->bar.size(); i++) {
+        cout << app->parseSynco->bar[i].syncopation << endl;
+    }
+    
+
     dim = 4;
     init(num, dim);
     started = false;

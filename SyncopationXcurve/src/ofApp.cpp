@@ -90,11 +90,11 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     if (gui->drawSynco) {
-        parseSynco->draw();
+        //parseSynco->draw();
         rhythmPlayer->draw();
     }
     
-    rhythmPicker->draw();
+    //rhythmPicker->draw();
     recorder->draw();
     //drawCurve->draw();
     drawFitting->draw();

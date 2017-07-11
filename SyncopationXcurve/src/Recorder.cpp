@@ -21,6 +21,7 @@ void Recorder::start(){
 void Recorder::stop(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
     app->rhythmPlayer->stop();
+    app->drawFitting->stop();
     xml.saveFile(filename);
     started = false;
     startTime = 0;

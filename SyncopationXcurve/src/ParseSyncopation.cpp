@@ -3,7 +3,7 @@
 ParseSyncopation::ParseSyncopation(string filename){
     syncopationMax = -10000;
     syncopationMin = 10000;
-    drawMargin = 100;
+    drawMargin = ofGetWidth()/10.0;
     radius = 5;
 
     bool parsingSuccessful = result.open(filename);

@@ -24,6 +24,7 @@ void RhythmPicker::update(){
         if (dist == rhythmDist) {
             pickedRhythm.push_back(i);
             pickedBit.push_back(app->parseSynco->bar[i].bit);
+            pickedSynco = app->parseSynco->bar[i].syncopation;
         }
     }
 }
@@ -31,7 +32,7 @@ void RhythmPicker::update(){
 void RhythmPicker::draw(){
     ofApp *app = ((ofApp*)ofGetAppPtr());
     
-    ofVec2f pickedLoc;
+    //ofVec2f pickedLoc;
     pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;
     if (lastPickedLoc.x != pickedLoc.x) {
         app->rhythmPlayer->pickBitNum = ofRandom(pickedBit.size());

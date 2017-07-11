@@ -15,11 +15,6 @@ DrawFitting::DrawFitting(){
         in[i] = 0.0;
         out[i] = 0.0;
     }
-    
-    for (int i = 0; i < app->parseSynco->bar.size(); i++) {
-        cout << app->parseSynco->bar[i].syncopation << endl;
-    }
-    
 
     dim = 4;
     init(num, dim);
@@ -32,8 +27,8 @@ void DrawFitting::update(){
         double m;
         int d = dim;
         
-        in[int(app->mouseX)]++;
-        
+        in[int(app->rhythmPicker->pickedSynco) + 2]++;
+      
         for (int i = 0; i < d; i++){
             m = prod(in, w[i], num);
             for (int j = 0; j < num; j++) {
@@ -47,6 +42,8 @@ void DrawFitting::draw(){
     if (started) {
         float min = 100000;
         float max = -100000;
+        float imin = 100000;
+        float imax = -100000;
         
         for (int i = 0; i < num; i++){
             if (out[i] < min) {
@@ -56,17 +53,32 @@ void DrawFitting::draw(){
                 max = out[i];
             }
         }
+        for (int i = 0; i < num; i++){
+            if (in[i] < imin) {
+                imin = in[i];
+            }
+            if (in[i] > imax) {
+                imax = in[i];
+            }
+        }
         
-        ofSetColor(172);
+        ofSetColor(255);
         ofNoFill();
         ofBeginShape();
         for (int i = 0; i < num; i++) {
-            float x = ofMap(i, 0, num, 0, ofGetWidth());
-            float y = ofMap(out[i], min, max, ofGetHeight()/2 + ofGetHeight()/4, ofGetHeight()/2 - ofGetHeight()/4);
-            ofVertex(x, y);
+            //float x = ofMap(i, 0, num-1, 0, ofGetWidth());
+            //float y = ofMap(out[i], min, max, ofGetHeight()/2 + ofGetHeight()/4, ofGetHeight()/2 - ofGetHeight()/4);
+            float ix = ofMap(i, 0, num-1, 0, ofGetWidth());
+            float iy = ofMap(in[i], imin, imax, ofGetHeight()/2 + ofGetHeight()/4, ofGetHeight()/2 - ofGetHeight()/4);
+            //ofVertex(x, y);
+            ofCurveVertex(ix, iy);
+            ofFill();
+            ofDrawCircle(ix, iy, 5, 5);
+            ofNoFill();
         }
         ofEndShape();
         ofFill();
+        
         /*
         for (int i = 0; i < num; i++) {
             float x = ofMap(i, 0, num, 0, ofGetWidth());
@@ -75,6 +87,16 @@ void DrawFitting::draw(){
         }
         */
     }
+}
+
+void DrawFitting::stop(){
+    ofApp *app = ((ofApp*)ofGetAppPtr());
+    for (int i = 0; i < num; i++) {
+        in[i] = 0.0;
+        out[i] = 0.0;
+    }
+    init(num, dim);
+    started = false;
 }
 
 double DrawFitting::prod(double a[], double b[], int n){

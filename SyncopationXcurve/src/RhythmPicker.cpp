@@ -33,6 +33,11 @@ void RhythmPicker::draw(){
     
     ofVec2f pickedLoc;
     pickedLoc = app->parseSynco->bar[pickedRhythm[0]].screenLocation;
+    if (lastPickedLoc.x != pickedLoc.x) {
+        app->rhythmPlayer->pickBitNum = ofRandom(pickedBit.size());
+    }
+    
+    lastPickedLoc = pickedLoc;
 
     if (app->gui->drawSynco) {
         ofSetColor(255, 0, 0, 127);
@@ -95,7 +100,7 @@ void RhythmPicker::mousePressed(int x, int y, int button){
         selected = false;
     }
     */
-    }
+}
 
 void RhythmPicker::mouseReleased(int x, int y, int button){
     //selected = false;

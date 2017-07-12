@@ -6,6 +6,7 @@ Recorder::Recorder(){
     started = false;
     time_t current = time(0);
     filename = ofToDataPath("../record/") + ofToString(current) + ".xml";
+    recordId = ofToString(current);
     xml.saveFile(filename);
     xml.clear();
     int tagNum = xml.addTag("head");
@@ -53,6 +54,9 @@ void Recorder::draw(){
         */
         ofSetColor(255);
         img.draw(0, 0);
+    } else {
+        ofSetColor(255);
+        ofDrawBitmapString(ofToString(recordId), 20, 20);
     }
 }
 

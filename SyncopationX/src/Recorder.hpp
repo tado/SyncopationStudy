@@ -14,6 +14,7 @@ public:
     
     ofxXmlSettings xml;
     string filename;
+    string recordId;
     bool started;
     float startTime;
     ofTrueTypeFont font;
